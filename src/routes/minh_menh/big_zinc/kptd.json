@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "dk8zd0hs", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Mitsuru_121", "active": "1", "descendant": "mitsuru_121", "entity": "1fu0b2zk", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "CHCOIN_8729412", "active": "1", "descendant": "chcoin_8729412", "entity": "vulgrv2d", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "MZR_168_2178", "active": "1", "descendant": "mzr_168_2178", "entity": "djjdctx5", "template": "", "type": "specimen", "relative": "1" }
+]

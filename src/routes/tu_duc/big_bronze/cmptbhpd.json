@@ -1,0 +1,13 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "jswt580e", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BNF_1812", "active": "1", "descendant": "bnf_1812", "entity": "c321t85k", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Lacroix_474", "active": "1", "descendant": "lacroix_474", "entity": "3xj7tu7o", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Okura_100_1", "active": "1", "descendant": "okura_100_1", "entity": "f0vxjci4", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Mitsuru_47", "active": "1", "descendant": "mitsuru_47", "entity": "qkuve82x", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "JNQ_22", "active": "1", "descendant": "jnq_22", "entity": "b0qi7xlo", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "HUAY_22_1110_3_149", "active": "1", "descendant": "huay_22_1110_3_149", "entity": "g71rwxf8", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Ikaru_52", "active": "1", "descendant": "ikaru_52", "entity": "sl84wm1h", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Nnth_6", "active": "1", "descendant": "nnth_6", "entity": "ltp0p87t", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BTLSQG_18", "active": "1", "descendant": "btlsqg_18", "entity": "111fn0dh", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BRMU_37", "active": "1", "descendant": "brmu_37", "entity": "ioyy9e0f", "template": "", "type": "specimen", "relative": "1" }
+]

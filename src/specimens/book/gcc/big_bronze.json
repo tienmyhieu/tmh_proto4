@@ -1,0 +1,9 @@
+{
+  "metadata": { "multiple": "0" },
+  "minh_menh": {
+    "barker_156": {"diameter": "50.97", "emperor": "minh_menh", "entity": "kgsch3ct", "identifiers": ["barker_156", "huay_17_1204_3_78"], "images": [["b3d2fd7f7b4b48a8a82d65bdf5e41d18-1.png", "b3d2fd7f7b4b48a8a82d65bdf5e41d18-2.png"]], "type": "1", "uploads": [["7ae294b4402b4c48887c16c54a949200.jpg", "40d65ad6a5d24031a968ba8518dd9c5d.jpg"]], "weight": "29.98" }
+  },
+  "thieu_tri": {
+    "barker_185": {"diameter": "52.54", "emperor": "thieu_tri", "entity": "htr238bm", "identifiers": ["barker_185", "huay_18_0301_3_108"], "images": [["01a29c5e979942b4ab407ded06217fed-1.png", "01a29c5e979942b4ab407ded06217fed-2.png"]], "type": "1", "uploads": [["144bd642af1b459d88e24de3c328ca56.jpg", "9da62442f6274a3cb13087e2746e0aca.jpg"]], "weight": "37.47" }
+  }
+}

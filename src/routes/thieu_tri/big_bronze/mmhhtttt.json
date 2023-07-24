@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "mabtj2ur", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BNF_1610", "active": "1", "descendant": "bnf_1610", "entity": "nrlrjkaz", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Ikaru_30", "active": "1", "descendant": "ikaru_30", "entity": "nqgmxpd7", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BTTPHCM_48", "active": "1", "descendant": "bttphcm_48", "entity": "7rtxmfz7", "template": "", "type": "specimen", "relative": "1" }
+]

@@ -1,0 +1,7 @@
+{
+  "tu_duc": {
+    "ebay_163270798323": {"diameter": "", "emperor": "tu_duc", "entity": "3s4x3fq1", "identifiers": ["ebay_163270798323"], "images": [["9950ce035c344bb2a48bb876461abfe3-1.png", "9950ce035c344bb2a48bb876461abfe3-2.png"], ["59735c2b0d084be0a43da3da5ce0e3e9-1.png", "59735c2b0d084be0a43da3da5ce0e3e9-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "ebay_262844599085": {"diameter": "51.75", "emperor": "tu_duc", "entity": "e472ltt4", "identifiers": ["ebay_262844599085"], "images": [["b688e87a27eb4257bc344d4f27042294-1.png", "b688e87a27eb4257bc344d4f27042294-2.png"], ["372b7bb4f137491e869474d8d01d5c9e-1.png", "372b7bb4f137491e869474d8d01d5c9e-2.png"]], "type": "1", "uploads": [], "weight": "32.68" },
+    "ebay_154372510283": {"diameter": "", "emperor": "tu_duc", "entity": "i284ma77", "identifiers": ["ebay_154372510283"], "images": [["b82c4f1ef9064cdf9f3ff82410ec60f5-1.png", "b82c4f1ef9064cdf9f3ff82410ec60f5-2.png"], ["92b91b327b79465882fdb1d3afbd57b0-1.png", "92b91b327b79465882fdb1d3afbd57b0-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  }
+}

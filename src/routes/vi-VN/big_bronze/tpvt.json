@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "rwm822lm", "template": "", "type": "coin", "relative": "1" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Tứ_phương_vi_tắc/BTTPHCM_27", "active": "1", "descendant": "bttphcm_27", "entity": "tk2lblpv", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Thiệu_Trị_thông_bảo/Tứ_phương_vi_tắc/Lacroix_452", "active": "1", "descendant": "lacroix_452", "entity": "m2vked08", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Tứ_phương_vi_tắc/BTTPHCM_51", "active": "1", "descendant": "bttphcm_51", "entity": "jfj7zho8", "template": "", "relative": "0" }
+]

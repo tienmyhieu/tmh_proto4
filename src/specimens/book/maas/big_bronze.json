@@ -1,0 +1,19 @@
+{
+  "metadata": { "multiple": "0" },
+  "minh_menh": {
+    "sallet_a1": {"diameter": "", "emperor": "minh_menh", "entity": "kv7lq7qy", "identifiers": ["sallet_a1"], "images": [[".", "3488d00a75b249b88f9d82795fafa5c2-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thieu_tri": {
+    "sallet_8": {"diameter": "", "emperor": "thieu_tri", "entity": "c904g7yi", "identifiers": ["sallet_8"], "images": [["209d5751cc0d4a618c72343b0e878817-1.png", "209d5751cc0d4a618c72343b0e878817-2.png"], ["033389ee02a5453f8136fdbff474af38-1.png", "033389ee02a5453f8136fdbff474af38-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "sallet_17": {"diameter": "52.50", "emperor": "thieu_tri", "entity": "crup2ne3", "identifiers": ["sallet_17"], "images": [["f8c2d88fefe1477fa449c8f6774b5153-1.png", "f8c2d88fefe1477fa449c8f6774b5153-2.png"], ["c260315261bc488ea2fac93bbeb2e0df-1.png", "c260315261bc488ea2fac93bbeb2e0df-2.png"]], "type": "1", "uploads": [], "weight": "36.67" },
+    "sallet_a2": {"diameter": "", "emperor": "thieu_tri", "entity": "e2x2ih8s", "identifiers": ["sallet_a2"], "images": [[".", "0f92a67c93bc46e99da0b1cfc27a070d-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "sallet_a3": {"diameter": "", "emperor": "thieu_tri", "entity": "7g3ykuwj", "identifiers": ["sallet_a3"], "images": [[".", "742d87cf3b6a455caf5e238c49af92e1-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tu_duc": {
+    "sallet_9": {"diameter": "", "emperor": "tu_duc", "entity": "jn9lups2", "identifiers": ["sallet_9"], "images": [["a874a6c76b174ebabd71406919b49049-1.png", "a874a6c76b174ebabd71406919b49049-2.png"], ["23f08e370a50475eb4de5d283d0f3a93-1.png", "23f08e370a50475eb4de5d283d0f3a93-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "sallet_18": {"diameter": "", "emperor": "tu_duc", "entity": "rew7k3w7", "identifiers": ["sallet_18"], "images": [["eee9edaa65fd49c1a8817387163216d3-1.png", "eee9edaa65fd49c1a8817387163216d3-2.png"], ["aff4ba05d66c403e8e8939a5b68e61f4-1.png", "aff4ba05d66c403e8e8939a5b68e61f4-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "sallet_a4": {"diameter": "", "emperor": "tu_duc", "entity": "be9ue58w", "identifiers": ["sallet_a4"], "images": [[".", "fd25f9da7751437c9d6d45adecdfd486-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "sallet_a5": {"diameter": "", "emperor": "tu_duc", "entity": "qvf23s27", "identifiers": ["sallet_a5"], "images": [[".", "237a0fb01de545c2bbd384c2fe49ce9d-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "sallet_a6": {"diameter": "", "emperor": "tu_duc", "entity": "qlk1suna", "identifiers": ["sallet_a6"], "images": [[".", "1153055af98a411499ce9430006b0ac5-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  }
+}

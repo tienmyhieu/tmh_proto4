@@ -1,0 +1,9 @@
+{
+  "minh_menh": {
+    "bjhh_2011_0683_1": {"diameter": "", "emperor": "minh_menh", "entity": "ax3dll9y", "identifiers": ["bjhh_2011_0683_1"], "images": [["5b8081c7c3c64d19ace8e11e971c3864-1.png", "5b8081c7c3c64d19ace8e11e971c3864-2.png"], ["a525a3f004144d1c8ec0d6a11911760d-1.png", "a525a3f004144d1c8ec0d6a11911760d-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "bjhh_2011_0683_2": {"diameter": "", "emperor": "minh_menh", "entity": "isi480j9", "identifiers": ["bjhh_2011_0683_2"], "images": [["b3d195229ca8439193f0371d820961fd-1.png", "b3d195229ca8439193f0371d820961fd-2.png"], ["02a3c36b83c3492dbc65caaed6990fd3-1.png", "02a3c36b83c3492dbc65caaed6990fd3-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thieu_tri": {
+    "bjhh_2011_0682": {"diameter": "", "emperor": "thieu_tri", "entity": "mdcrf8zw", "identifiers": ["bjhh_2011_0682"], "images": [["ca321fade59e4e87b0ce68a4a5fa4341-1.png", "ca321fade59e4e87b0ce68a4a5fa4341-2.png"], ["87740a7c39db4303bc6b3345acc2ffe3-1.png", "87740a7c39db4303bc6b3345acc2ffe3-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  }
+}

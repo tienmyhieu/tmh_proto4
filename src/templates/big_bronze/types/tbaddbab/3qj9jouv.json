@@ -1,0 +1,12 @@
+{
+  "diameter": "",
+  "emperor": "thieu_tri",
+  "entity": "3qj9jouv",
+  "identifiers": ["BTTPHCM 42"],
+  "image_groups": {
+    "g3ojidua": { "images": ["58fb226c168d4f27a6df13070bcffc5e-1.png", "58fb226c168d4f27a6df13070bcffc5e-2.png"] },
+    "0hykgcbl": { "images": ["fc85bde1cdab469abe17091b42e6a6cf-1.png", "fc85bde1cdab469abe17091b42e6a6cf-2.png"] },
+    "2trp12vv": { "images": ["ad6c8d529b384c42847096990d54a9e0-2.png", "171374a44b15439cbe7cc71ab9d8e1f3-2.png"] }
+  },
+  "weight": ""
+}

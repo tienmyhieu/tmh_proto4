@@ -1,0 +1,10 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "zhzyl2gf", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Barker_193", "active": "1", "descendant": "barker_193", "entity": "xbp9cbbw", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BNF_1836", "active": "1", "descendant": "bnf_1836", "entity": "vt8um08b", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Okura_96_1", "active": "1", "descendant": "okura_96_1", "entity": "su7rcsvb", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "HUAY_19_0612_9", "active": "1", "descendant": "huay_19_0612_9", "entity": "1hkwyeij", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "SARC_39_1475", "active": "1", "descendant": "sarc_39_1475", "entity": "nws8z5a1", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Ikaru_55", "active": "1", "descendant": "ikaru_55", "entity": "m97xe85b", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BTTPHCM_61", "active": "1", "descendant": "bttphcm_61", "entity": "mm9ksjmy", "template": "", "type": "specimen", "relative": "1" }
+]

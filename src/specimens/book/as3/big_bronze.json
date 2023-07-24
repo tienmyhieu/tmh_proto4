@@ -1,0 +1,33 @@
+{
+  "metadata": { "multiple": "0" },
+  "minh_menh": {
+    "seigo_1": {"diameter": "", "emperor": "minh_menh", "entity": "5h9siaqm", "identifiers": ["seigo_1"], "images": [["4f9f627070fa48c9a0b080827d7e212f-1.png", "4f9f627070fa48c9a0b080827d7e212f-2.png"]], "type": "2", "uploads": [], "weight": "" },
+    "seigo_2": {"diameter": "", "emperor": "minh_menh", "entity": "v2tvbb40", "identifiers": ["seigo_2"], "images": [["04da9b3fed0448009dac0137b598abe1-1.png", "04da9b3fed0448009dac0137b598abe1-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_3": {"diameter": "", "emperor": "minh_menh", "entity": "d81aeg5l", "identifiers": ["seigo_3"], "images": [["38748596f2a441d6a35270ff43a1e182-1.png", "38748596f2a441d6a35270ff43a1e182-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_4": {"diameter": "", "emperor": "minh_menh", "entity": "zrtlfo19", "identifiers": ["seigo_4"], "images": [["c7c82c36650b4b6ba4867a107b00ccf7-1.png", "c7c82c36650b4b6ba4867a107b00ccf7-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_5": {"diameter": "", "emperor": "minh_menh", "entity": "xmjv9tl9", "identifiers": ["seigo_5"], "images": [["061677a29be64f0cb6ffc9bfbf8cf29f-1.png", "061677a29be64f0cb6ffc9bfbf8cf29f-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_6": {"diameter": "", "emperor": "minh_menh", "entity": "5qmfuv3g", "identifiers": ["seigo_6"], "images": [["78b7031e2ba040fc9a40b9db38913fd5-1.png", "78b7031e2ba040fc9a40b9db38913fd5-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_7": {"diameter": "", "emperor": "minh_menh", "entity": "bqazlh3g", "identifiers": ["seigo_7"], "images": [["c9b9d01eb99a4278a72492a84bc8c090-1.png", "c9b9d01eb99a4278a72492a84bc8c090-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_8": {"diameter": "", "emperor": "minh_menh", "entity": "0l0s1tzw", "identifiers": ["seigo_8"], "images": [["24c4f5cb134b47e59d68107308861ccf-1.png", "24c4f5cb134b47e59d68107308861ccf-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_9": {"diameter": "", "emperor": "minh_menh", "entity": "0rs1ho7m", "identifiers": ["seigo_9"], "images": [["b6a308a2ff814fcc8c0a21c81fff2b92-1.png", "b6a308a2ff814fcc8c0a21c81fff2b92-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_10": {"diameter": "", "emperor": "minh_menh", "entity": "tgk3wqmr", "identifiers": ["seigo_10"], "images": [["7f3736991f4d488fa4904e0bf578a375-1.png", "7f3736991f4d488fa4904e0bf578a375-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_11": {"diameter": "", "emperor": "minh_menh", "entity": "xmjv9tl9", "identifiers": ["seigo_11"], "images": [["c56944eb0f584f03be9889969e078b2f-1.png", "c56944eb0f584f03be9889969e078b2f-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_12": {"diameter": "", "emperor": "minh_menh", "entity": "slejok3w", "identifiers": ["seigo_12"], "images": [["8835f2d8dc674d44bdfc8016b517c724-1.png", "8835f2d8dc674d44bdfc8016b517c724-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_13": {"diameter": "", "emperor": "minh_menh", "entity": "ditsmb4i", "identifiers": ["seigo_13"], "images": [["de6f627eddf64e9391838597a6ef6072-1.png", "de6f627eddf64e9391838597a6ef6072-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_14": {"diameter": "", "emperor": "minh_menh", "entity": "wj74d7mn", "identifiers": ["seigo_14"], "images": [["2350429e4b604477927d2a1cfe49dfb8-1.png", "2350429e4b604477927d2a1cfe49dfb8-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thieu_tri": {
+    "seigo_15": {"diameter": "", "emperor": "thieu_tri", "entity": "d2i4hta4", "identifiers": ["seigo_15"], "images": [["984735e99e944d459e7128131524e503-1.png", "984735e99e944d459e7128131524e503-2.png"], ["d95744aa6b2a4f278df20ea4c2bbaeff-1.png", "d95744aa6b2a4f278df20ea4c2bbaeff-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_16": {"diameter": "", "emperor": "thieu_tri", "entity": "978jowxb", "identifiers": ["seigo_16"], "images": [["c9229910790b42b6a2b5b8b5ea77ef5b-1.png", "c9229910790b42b6a2b5b8b5ea77ef5b-2.png"], ["26dafb232ab4412292415cb85fea9117-1.png", "26dafb232ab4412292415cb85fea9117-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "schroeder_217": {"diameter": "", "emperor": "thieu_tri", "entity": "wkyeimn7", "identifiers": ["schroeder_217"], "images": [[".", "284efec464e9436c9404e6a231294701-2.png"]], "type": "1", "uploads": [["d38ddc78f14f4e2081d64ee39dd1b5ce.jpg"]], "weight": "" },
+    "seigo_18": {"diameter": "", "emperor": "thieu_tri", "entity": "u5zj7r77", "identifiers": ["seigo_18"], "images": [["de55b9fb01b8499da342f0c7682b1d05-1.png", "de55b9fb01b8499da342f0c7682b1d05-2.png"], ["f05562e131ca48d6bb144cdb4a654af8-1.png", "f05562e131ca48d6bb144cdb4a654af8-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_19": {"diameter": "", "emperor": "thieu_tri", "entity": "0e99vokc", "identifiers": ["seigo_19"], "images": [["4ead4727fe5a4bb29c8aabc47b8c0063-1.png", "4ead4727fe5a4bb29c8aabc47b8c0063-2.png"], ["23678aa0d3f94d92948de0f1c5ed6541-1.png", "23678aa0d3f94d92948de0f1c5ed6541-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_20": {"diameter": "", "emperor": "thieu_tri", "entity": "vl2mejzd", "identifiers": ["seigo_20"], "images": [["9c9a7795a79543d38ce879b7725fd9c6-1.png", "9c9a7795a79543d38ce879b7725fd9c6-2.png"], ["716d655b9dc04078900e14f05833b189-1.png", "716d655b9dc04078900e14f05833b189-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tu_duc": {
+    "seigo_21": {"diameter": "", "emperor": "tu_duc", "entity": "edobcm54", "identifiers": ["seigo_21"], "images": [["4741a23b22d4450787517a012b6efda7-1.png", "4741a23b22d4450787517a012b6efda7-2.png"], ["18334579a4c4406da7b34fd92a0208ed-1.png", "18334579a4c4406da7b34fd92a0208ed-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "schroeder_311": {"diameter": "", "emperor": "tu_duc", "entity": "s4b13kw1", "identifiers": ["schroeder_311"], "images": [[".", "e84f0e1c68144c28a84b78037897e182-2.png"]], "type": "1", "uploads": [["8afe649ac9504880ad7a4c02b0f2018d.jpg"]], "weight": "" },
+    "seigo_23": {"diameter": "", "emperor": "tu_duc", "entity": "0hrvy2fo", "identifiers": ["seigo_23"], "images": [["05d51ca1a08a45c09b745247784da280-1.png", "05d51ca1a08a45c09b745247784da280-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "seigo_24": {"diameter": "", "emperor": "tu_duc", "entity": "5qg7xcwi", "identifiers": ["seigo_24"], "images": [["ebd5bb29d9224532887872245b7de80b-1.png", "ebd5bb29d9224532887872245b7de80b-2.png"], ["c6c13f8ef63c483a80cae83b6da713de-1.png", "c6c13f8ef63c483a80cae83b6da713de-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  }
+}

@@ -1,0 +1,7 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "qt7h889n", "template": "", "type": "metal", "relative": "1" },
+  { "route": "Minh_Mệnh_thông_bảo", "active": "1", "descendant": "minh_menh", "entity": "qa97dvrl", "template": "", "type": "emperor_metal", "relative": "1" },
+  { "route": "Thiệu_Trị_thông_bảo", "active": "1", "descendant": "thieu_tri", "entity": "c2nqt2rm", "template": "", "type": "emperor_metal", "relative": "1" },
+  { "route": "Tự_Đức_thông_bảo", "active": "1", "descendant": "tu_duc", "entity": "oaesz27l", "template": "", "type": "emperor_metal", "relative": "1" },
+  { "route": "Loại", "active": "1", "descendant": "types", "entity": "nt9ppxc1", "template": "", "type": "types", "relative": "1" }
+]

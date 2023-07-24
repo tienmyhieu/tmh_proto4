@@ -1,0 +1,439 @@
+{
+  "hptctbcn": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "red82yu4", "identifiers": ["mitsuru_64"], "images": [["9248f954a2ad4265950420c1cc165803-1.png", "9248f954a2ad4265950420c1cc165803-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "0v80n1ly", "identifiers": ["mitsuru_147"], "images": [["28a29ad79b0442f2a41c9946bc7d7057-1.png", "28a29ad79b0442f2a41c9946bc7d7057-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "8e9mgy1s", "identifiers": ["mitsuru_226"], "images": [["71282af11bb64e78bab78e16df78eb13-1.png", "71282af11bb64e78bab78e16df78eb13-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "hptcqcct": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "yhj5hlfy", "identifiers": ["mitsuru_148"], "images": [["e3d25a98296f4398b99c7d121944e319-1.png", "e3d25a98296f4398b99c7d121944e319-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "8e5dy04j", "identifiers": ["chcoin_4513283"], "images": [["412d6c39786b4fc0955730f179b7ea72-1.png", "412d6c39786b4fc0955730f179b7ea72-2.png"], ["808e8d7908f14eb8afaf8cc4a8c2920d-1.png", "808e8d7908f14eb8afaf8cc4a8c2920d-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "nxncnpns": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "ccm29gxy", "identifiers": ["mitsuru_65"], "images": [["091ee4708b484de8b9a7642f810b70bf-1.png", "091ee4708b484de8b9a7642f810b70bf-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ncnpnsnx": {
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "2zclrmn9", "identifiers": ["mitsuru_228"], "images": [["2f58785c217a4074a46334627fdadb21-1.png", "2f58785c217a4074a46334627fdadb21-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "nsnxncnp": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "8faopgx8", "identifiers": ["mitsuru_66"], "images": [["11bfbd0fbd5a49ddaf1fa36239c8fa7e-1.png", "11bfbd0fbd5a49ddaf1fa36239c8fa7e-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "qtls0h4s", "identifiers": ["mitsuru_149"], "images": [["7f4f44b629f14b98b73171fcfaa60207-1.png", "7f4f44b629f14b98b73171fcfaa60207-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vdddtmdd": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "ra5npkdq", "identifiers": ["mitsuru_67"], "images": [["4e008a910b9a4d9a8797a2ed5e3ebbeb-1.png", "4e008a910b9a4d9a8797a2ed5e3ebbeb-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "03m9y8b7", "identifiers": ["mitsuru_150"], "images": [["ef3e73b06ad048948b3f7839c326f80d-1.png", "ef3e73b06ad048948b3f7839c326f80d-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tmddvddd": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "02gyxmmo", "identifiers": ["mitsuru_151"], "images": [["efa5d76c38d04d96a410eb4057c8c7e4-1.png", "efa5d76c38d04d96a410eb4057c8c7e4-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "tjxc090f", "identifiers": ["mitsuru_229"], "images": [["f3b5fdacd6ae4cc99d18957969454d8d-1.png", "f3b5fdacd6ae4cc99d18957969454d8d-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ccccvdvt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "red82yu4", "identifiers": ["mitsuru_68"], "images": [["5de7460c4e5d42c8bfdf181de3c8681b-1.png", "5de7460c4e5d42c8bfdf181de3c8681b-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ccvdvtcc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "2z058gd9", "identifiers": ["chcoin_6824878"], "images": [["7619b6d17e11467a9870b8398a60db10-1.png", "7619b6d17e11467a9870b8398a60db10-2.png"], ["af0c33f023c64a9c95c608a7390a937e-1.png", "af0c33f023c64a9c95c608a7390a937e-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "uhjg803e", "identifiers": ["mitsuru_152"], "images": [["33300251dd974eabae01cb1ffd2a269e-1.png", "33300251dd974eabae01cb1ffd2a269e-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "fmgma84d", "identifiers": ["mitsuru_230"], "images": [["cc35d208204840d6a4d6684ade98788e-1.png", "cc35d208204840d6a4d6684ade98788e-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "qtdapdvt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "rz0g8vlf", "identifiers": ["mitsuru_70"], "images": [["b1bae29285454622ad1f45a9f6e331c7-1.png", "b1bae29285454622ad1f45a9f6e331c7-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "p4znq4x9", "identifiers": ["mitsuru_153"], "images": [["1205bf785c3548fcbe356340cf5c9e68-1.png", "1205bf785c3548fcbe356340cf5c9e68-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "2d4ri5wh", "identifiers": ["mitsuru_231"], "images": [["7a9070c3e528458c8a4f94229251fc1d-1.png", "7a9070c3e528458c8a4f94229251fc1d-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "pdvtqtda": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "x1o2akpj", "identifiers": ["mitsuru_71"], "images": [["9bdea547f764454ebb9a0273c3b35295-1.png", "9bdea547f764454ebb9a0273c3b35295-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "qrjc3ih5", "identifiers": ["mitsuru_154"], "images": [["fcaa340707364ef59a534b6878e71a12-1.png", "fcaa340707364ef59a534b6878e71a12-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "sylpsm9a", "identifiers": ["mitsuru_232"], "images": [["05a2ae5384cf41b0b9532fae2cbe2290-1.png", "05a2ae5384cf41b0b9532fae2cbe2290-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "dvdldddt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "8ok5wpc5", "identifiers": ["mitsuru_72"], "images": [["09a3ad6d955d4f238e8e02b54ffa8a79-1.png", "09a3ad6d955d4f238e8e02b54ffa8a79-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "9m5g0tqk", "identifiers": ["aw_17_1014_3"], "images": [["96f8205530a944318f7851fc6dcd8530-1.png", "96f8205530a944318f7851fc6dcd8530-2.png"], ["ad9b330306f847adad62f40275bea1cf-1.png", "ad9b330306f847adad62f40275bea1cf-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "iyr9sjfx", "identifiers": ["chcoin_2178122_6"], "images": [["05285f7db03c4f1eb693286b5e77d0bb-1.png", "05285f7db03c4f1eb693286b5e77d0bb-2.png"], ["3045a6c387734b7699983013992497a8-1.png", "3045a6c387734b7699983013992497a8-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "lpkttsdt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "xuze535s", "identifiers": ["mitsuru_73"], "images": [["40148b5bbb4f4fcabd499f025a8af587-1.png", "40148b5bbb4f4fcabd499f025a8af587-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "983jfv5d", "identifiers": ["mitsuru_156"], "images": [["702b477ade7d47eeb4b6e00ba743c900-1.png", "702b477ade7d47eeb4b6e00ba743c900-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "2whz7fli", "identifiers": ["mitsuru_234"], "images": [["95c5cf0801464d74b35110975fbe63d9-1.png", "95c5cf0801464d74b35110975fbe63d9-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "dtlpktts": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "1c8msi4w", "identifiers": ["mitsuru_157"], "images": [["d57754a059d240e9b8f99002c0de256d-1.png", "d57754a059d240e9b8f99002c0de256d-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vtvtvvtt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "c8j19j9y", "identifiers": ["omni_86_5624"], "images": [["76bbbfc5bcc3496a997fc88dd78ca61c-1.png", "76bbbfc5bcc3496a997fc88dd78ca61c-2.png"], ["002be65aa13b40d4aee78dfd641cb68e-1.png", "002be65aa13b40d4aee78dfd641cb68e-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "je3c0kxs", "identifiers": ["mitsuru_158"], "images": [["b12bf26acf01439f9b2f2398aad8333f-1.png", "b12bf26acf01439f9b2f2398aad8333f-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vtvvttvt": {
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "nev2c1op", "identifiers": ["mitsuru_235"], "images": [["70d880aef1464fed9c6fa94355b0748f-1.png", "70d880aef1464fed9c6fa94355b0748f-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "qpbcnant": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "trlffbfa", "identifiers": ["yajp_g1098711804"], "images": [["b1f275fa0ba248c1858c2829cbf9a24c-1.png", "b1f275fa0ba248c1858c2829cbf9a24c-2.png"], ["9eb28f16afd347cca30f4f631abcc0d8-1.png", "9eb28f16afd347cca30f4f631abcc0d8-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "42erv9kf", "identifiers": ["chcoin_2178122_3"], "images": [["5405ac33b0b04fa9841b73ece1a1bb15-1.png", "5405ac33b0b04fa9841b73ece1a1bb15-2.png"], ["25d9c1ed2dec4bde96988979ee08d820-1.png", "25d9c1ed2dec4bde96988979ee08d820-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "oqwdd1ij", "identifiers": ["mitsuru_236"], "images": [["dcbd27f9e1234588b6db05eeff867484-1.png", "dcbd27f9e1234588b6db05eeff867484-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "knktttkc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "8vu1mdh4", "identifiers": ["mitsuru_76"], "images": [["20cbac10f33c44b9a2e3479397cb1b08-1.png", "20cbac10f33c44b9a2e3479397cb1b08-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "2pyxhtt0", "identifiers": ["mitsuru_160"], "images": [["47a7a57db2414dc997e3dcf96dd5c185-1.png", "47a7a57db2414dc997e3dcf96dd5c185-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "h32u5c4p", "identifiers": ["mitsuru_237"], "images": [["ed542a75d8fc473fa67e9ea0e4b294e7-1.png", "ed542a75d8fc473fa67e9ea0e4b294e7-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "nnhkvtvc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "xiviwukw", "identifiers": ["mitsuru_77"], "images": [["ade5a1ca649044e4a86f969527f74337-1.png", "ade5a1ca649044e4a86f969527f74337-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "l7nqa2id", "identifiers": ["mitsuru_161"], "images": [["c3dd0ab8dfb44ab6a7baa3f1a37133e0-1.png", "c3dd0ab8dfb44ab6a7baa3f1a37133e0-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vtvcnnhk": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "afgli1bf", "identifiers": ["mitsuru_162"], "images": [["f9c0936523524cbbb76915aa218b70c7-1.png", "f9c0936523524cbbb76915aa218b70c7-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "zvczqx2j", "identifiers": ["mitsuru_238"], "images": [["9213a26c813048cb80f3799ccadc0f51-1.png", "9213a26c813048cb80f3799ccadc0f51-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "pndhttns": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "v2e8zphk", "identifiers": ["chcoin_6824878"], "images": [["e1852007979a40f99ca69f6ea0883784-1.png", "e1852007979a40f99ca69f6ea0883784-2.png"], ["9ac26bb1b9f94717a9ee04c1d9255f1d-1.png", "9ac26bb1b9f94717a9ee04c1d9255f1d-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "yj0ujmpl", "identifiers": ["mitsuru_163"], "images": [["b19308024c6c42d7996c59d118ba59b9-1.png", "b19308024c6c42d7996c59d118ba59b9-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "lkt9zlr9", "identifiers": ["mitsuru_239"], "images": [["e1519fc7732b4ea9a95036b24ef86f10-1.png", "e1519fc7732b4ea9a95036b24ef86f10-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tthccvbl": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "ycaswf8k", "identifiers": ["chcoin_466207"], "images": [["93388c061b3e407aa2631465502ab0c3-1.png", "93388c061b3e407aa2631465502ab0c3-2.png"], ["38949114146344498094fdcb1e34c73d-1.png", "38949114146344498094fdcb1e34c73d-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "l3hbiony", "identifiers": ["mitsuru_164"], "images": [["c9d3a660fe074685a9f9bec4a6337bce-1.png", "c9d3a660fe074685a9f9bec4a6337bce-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "20e4cuq9", "identifiers": ["mitsuru_240"], "images": [["7f4f8ebbae8e45b68f1660d369c2a752-1.png", "7f4f8ebbae8e45b68f1660d369c2a752-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "cvbltthc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "w2pz1if5", "identifiers": ["mitsuru_80"], "images": [["e949cd5af545449688dd338be9ff74c0-1.png", "e949cd5af545449688dd338be9ff74c0-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "xpr0ghqj", "identifiers": ["mitsuru_241"], "images": [["2291bad830fe4859a2a0e9af404df7ed-1.png", "2291bad830fe4859a2a0e9af404df7ed-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "nttpttkt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "wwfmpv8k", "identifiers": ["mitsuru_81"], "images": [["c585e72b839c4e61ba52da187d4ae7f9-1.png", "c585e72b839c4e61ba52da187d4ae7f9-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "kkmria4i", "identifiers": ["mitsuru_165"], "images": [["4ac42d9c62d1424bb92040375873b8a3-1.png", "4ac42d9c62d1424bb92040375873b8a3-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "is0shglr", "identifiers": ["mitsuru_242"], "images": [["4ea0a231deb148b9bdbc3fa71626115d-1.png", "4ea0a231deb148b9bdbc3fa71626115d-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tcdtatvt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "sai0zthm", "identifiers": ["mitsuru_82"], "images": [["5c4c4e78da884317b52599a8e95547d1-1.png", "5c4c4e78da884317b52599a8e95547d1-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "0hxxpegs", "identifiers": ["mitsuru_166"], "images": [["7f788a35585d4090a2702edcdbdeb2d1-1.png", "7f788a35585d4090a2702edcdbdeb2d1-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "kr1ik9r7", "identifiers": ["chcoin_2178122_7"], "images": [["ee7abc463b9449208eca8fc4bb49732a-1.png", "ee7abc463b9449208eca8fc4bb49732a-2.png"], ["7f19f5b4ac5e464781cb36425e382cca-1.png", "7f19f5b4ac5e464781cb36425e382cca-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vttcdtat": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "fqsahaac", "identifiers": ["mitsuru_83"], "images": [["149955d74f4649628518eedfe639cd7e-1.png", "149955d74f4649628518eedfe639cd7e-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "vfpvem2h", "identifiers": ["yajp_h1076865714"], "images": [["b479f7899efc4e60a43e260c43a7723e-1.png", "b479f7899efc4e60a43e260c43a7723e-2.png"], ["401c082b4a014ce7b12089069c0afcad-1.png", "401c082b4a014ce7b12089069c0afcad-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thccvtlc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "u09jh0kf", "identifiers": ["mitsuru_84"], "images": [["f51b5e4d05f34c79bef2bde206d5f0e9-1.png", "f51b5e4d05f34c79bef2bde206d5f0e9-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "bh9b2cya", "identifiers": ["mitsuru_167"], "images": [["458653b235c34ebea45a97e1335f7c2c-1.png", "458653b235c34ebea45a97e1335f7c2c-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vtlcthcc": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "akt13k5o", "identifiers": ["mitsuru_168"], "images": [["bbdc177da5f346438d57dc55139706a0-1.png", "bbdc177da5f346438d57dc55139706a0-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "ovkng9w2", "identifiers": ["mitsuru_245"], "images": [["ddbb2df92aef475ab2b8f71898bca34a-1.png", "ddbb2df92aef475ab2b8f71898bca34a-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ttttllaa": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "tn40wis0", "identifiers": ["chcoin_2178122_1"], "images": [["345a14ff08c24e5b8663d4a0529efe3b-1.png", "345a14ff08c24e5b8663d4a0529efe3b-2.png"], ["f33484a8f6894590b57841e3f9e8a025-1.png", "f33484a8f6894590b57841e3f9e8a025-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "ngmpv7do", "identifiers": ["mitsuru_169"], "images": [["409cf63b2bd64789a6abc088ad91b42a-1.png", "409cf63b2bd64789a6abc088ad91b42a-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "1wyv9odj", "identifiers": ["mitsuru_246"], "images": [["98704ae929fb4bca94f34ee7ce4062c2-1.png", "98704ae929fb4bca94f34ee7ce4062c2-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tbpqtndk": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "sjuqeaxs", "identifiers": ["mitsuru_86"], "images": [["5a4aa3fceb9f4ab1947ceab9018fbfe7-1.png", "5a4aa3fceb9f4ab1947ceab9018fbfe7-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "mmpildf4", "identifiers": ["mitsuru_170"], "images": [["1576882a702a4627b33779f84ca8eafc-1.png", "1576882a702a4627b33779f84ca8eafc-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "fw2lq7zv", "identifiers": ["huay_2017_03_02"], "images": [["e219f8da80424545815632480130c725-1.png", "e219f8da80424545815632480130c725-2.png"], ["5c5f7806ebf044799c2396f4ed143bfd-1.png", "5c5f7806ebf044799c2396f4ed143bfd-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "pqtndktb": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "swxdklc7", "identifiers": ["mitsuru_87"], "images": [["8c04f69c3cfb495088ab2d14b30192d2-1.png", "8c04f69c3cfb495088ab2d14b30192d2-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "swxdklc7", "identifiers": ["mitsuru_248"], "images": [["da504b4d74cb40f5abae51ca2c168fbc-1.png", "da504b4d74cb40f5abae51ca2c168fbc-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "knmdtmpq": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "3aqh5jfs", "identifiers": ["mitsuru_88"], "images": [["85cd15d5d4f74cba9de4c05cd0170d91-1.png", "85cd15d5d4f74cba9de4c05cd0170d91-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "8uwozvcy", "identifiers": ["mitsuru_171"], "images": [["bbb431a8fe754933bd56062131c0b30d-1.png", "bbb431a8fe754933bd56062131c0b30d-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "mdtmpqkn": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "4v3bombc", "identifiers": ["mitsuru_89"], "images": [["1fae1a33cc6b4648819be8ca86f48e94-1.png", "1fae1a33cc6b4648819be8ca86f48e94-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "b7eode2q", "identifiers": ["mitsuru_249"], "images": [["aa3c5cabf51643fe93657f8cdcec3c80-1.png", "aa3c5cabf51643fe93657f8cdcec3c80-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "qqttpptt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "j8tw9pb1", "identifiers": ["sssc_573146"], "images": [["18d318da22b64d97b6e42402e1f07011-1.png", "18d318da22b64d97b6e42402e1f07011-2.png"], ["cdb5afefa9c7423698d7a1fd67a4d400-1.png", "cdb5afefa9c7423698d7a1fd67a4d400-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "p5hhdiv9", "identifiers": ["bjcx_2008_1188"], "images": [["567b418b9b38446690dc9f1d78a658a7-1.png", "567b418b9b38446690dc9f1d78a658a7-2.png"], ["9ff4281bbcf04046b0a895778ef7a889-1.png", "9ff4281bbcf04046b0a895778ef7a889-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ppttqqtt": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "i4fgzsmp", "identifiers": ["mitsuru_173"], "images": [["ea2f502f1eb64e578221b006650103f1-1.png", "ea2f502f1eb64e578221b006650103f1-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "7118vh1n", "identifiers": ["mitsuru_250"], "images": [["c140e36136eb42858bac0e6a80025f35-1.png", "c140e36136eb42858bac0e6a80025f35-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "hhttllll": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "d7vjfg2y", "identifiers": ["mitsuru_91"], "images": [["2417f1d45b69452c91ac5722c2200c81-1.png", "2417f1d45b69452c91ac5722c2200c81-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "lxis4z97", "identifiers": ["mitsuru_174"], "images": [["b1c4f95d96944dec8de3801ba2e9d91d-1.png", "b1c4f95d96944dec8de3801ba2e9d91d-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "5k4smeg9", "identifiers": ["mitsuru_251"], "images": [["5cbb759999b14b60a999e9847d060219-1.png", "5cbb759999b14b60a999e9847d060219-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "mmhhtttt": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "8ex0zl9a", "identifiers": ["mitsuru_175"], "images": [["490fb20144214f6c879c7735071af45e-1.png", "490fb20144214f6c879c7735071af45e-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "hhttttmm": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "2zq91dos", "identifiers": ["mitsuru_93"], "images": [["d707653ecf8e4644ae22fcf6b8987ef4-1.png", "d707653ecf8e4644ae22fcf6b8987ef4-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "pplltttt": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "ncsfnnym", "identifiers": ["mitsuru_176"], "images": [["e7c14edfcc6441919bb7660e0c9841be-1.png", "e7c14edfcc6441919bb7660e0c9841be-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "ub3rvumr", "identifiers": ["mitsuru_254"], "images": [["c11a7c6291ed488bafe75860883e8813-1.png", "c11a7c6291ed488bafe75860883e8813-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "nnhhlltt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "z5sqkwcj", "identifiers": ["mitsuru_94"], "images": [["3402481e80084963a38f3ea08aba556e-1.png", "3402481e80084963a38f3ea08aba556e-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "aomq2rq5", "identifiers": ["mitsuru_177"], "images": [["b9d0f88869ea4ee5bbde2685d09c5868-1.png", "b9d0f88869ea4ee5bbde2685d09c5868-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ddddqqvv": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "xohushp5", "identifiers": ["mitsuru_95"], "images": [["1b598cbfa792482d8b880ee5c467a3e7-1.png", "1b598cbfa792482d8b880ee5c467a3e7-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "llddhhss": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "b5i7yjig", "identifiers": ["aw_17_1014_1"], "images": [["821b5faf00c541528ce694a7a5416766-1.png", "821b5faf00c541528ce694a7a5416766-2.png"], ["27edbc87b5e4493c9c46a8dc247b0bea-1.png", "27edbc87b5e4493c9c46a8dc247b0bea-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "nrtc0uew", "identifiers": ["mitsuru_255"], "images": [["4738274eb3594f2eb29da16c3cf2df0e-1.png", "4738274eb3594f2eb29da16c3cf2df0e-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "kkppttdd": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "pxhbpct4", "identifiers": ["mitsuru_96"], "images": [["c920609f88554b73b167f53182249d77-1.png", "c920609f88554b73b167f53182249d77-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "pn5wvayu", "identifiers": ["sina_2016_12_30_1"], "images": [["06cf8d9fee974f63a8237d5c95bda87d-1.png", "06cf8d9fee974f63a8237d5c95bda87d-2.png"], ["0b554ae8e9e2432cb2a7297e18f657fd-1.png", "0b554ae8e9e2432cb2a7297e18f657fd-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ttddkkpp": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "x2xs080b", "identifiers": ["mitsuru_179"], "images": [["bf04497d8a614248b0b875bf3fba107a-1.png", "bf04497d8a614248b0b875bf3fba107a-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tthhvvdd": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "1prqbuwo", "identifiers": ["chcoin_386513"], "images": [["4aa3850fbe6348ff9913d14456b9a4e8-1.png", "4aa3850fbe6348ff9913d14456b9a4e8-2.png"], ["1ce4d0e5c214461d8a4a207c0fa9ad74-1.png", "1ce4d0e5c214461d8a4a207c0fa9ad74-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "jqamzwxp", "identifiers": ["mitsuru_180"], "images": [["a7733dcea5ce45eeb11743df9137dab8-1.png", "a7733dcea5ce45eeb11743df9137dab8-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "hhz9rm0n", "identifiers": ["mitsuru_257"], "images": [["5f8f91e5c517484cbca6785d4b75dc0c-1.png", "5f8f91e5c517484cbca6785d4b75dc0c-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ddtthhvv": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "fruz2m2a", "identifiers": ["mitsuru_98"], "images": [["51ff9546328c4fc3be3b0d36d3333ea5-1.png", "51ff9546328c4fc3be3b0d36d3333ea5-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "cckkttcc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "i8o4tn9c", "identifiers": ["mitsuru_99"], "images": [["3da73913b3c745e59530e667b11b2a02-1.png", "3da73913b3c745e59530e667b11b2a02-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "idacg8pn", "identifiers": ["mitsuru_181"], "images": [["be9b471a86f941a1ab3c09b3de1dbcf2-1.png", "be9b471a86f941a1ab3c09b3de1dbcf2-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "50uj5twa", "identifiers": ["mitsuru_258"], "images": [["878aaea8f85e4d20aeb09d66d7e916a5-1.png", "878aaea8f85e4d20aeb09d66d7e916a5-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ttcccckk": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "jk2hs1is", "identifiers": ["mitsuru_100"], "images": [["f127a64523194375a2ada40e00cb4b12-1.png", "f127a64523194375a2ada40e00cb4b12-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ssxxcctt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "z8gnj408", "identifiers": ["mitsuru_101"], "images": [["bb768bc502c9440da8b73723c82d6fc3-1.png", "bb768bc502c9440da8b73723c82d6fc3-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "aeutuspx", "identifiers": ["mitsuru_182"], "images": [["4fd57f18d87e4cd78f6305932343521c-1.png", "4fd57f18d87e4cd78f6305932343521c-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "et7j4ey2", "identifiers": ["mitsuru_259"], "images": [["c928692cded94741935bf958986e72f0-1.png", "c928692cded94741935bf958986e72f0-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ccttssxx": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "8zzsa7dm", "identifiers": ["mitsuru_183"], "images": [["bbe2d419b85d438aac920d02a19dd8a1-1.png", "bbe2d419b85d438aac920d02a19dd8a1-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "mxs92ygu", "identifiers": ["mitsuru_260"], "images": [["12ff3e15bdcb43828c3935e90d60dd02-1.png", "12ff3e15bdcb43828c3935e90d60dd02-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vvttvvll": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "l2v8m3dq", "identifiers": ["chcoin_16084834"], "images": [["ad80715eecc04f9d83eb946ff1d35177-1.png", "ad80715eecc04f9d83eb946ff1d35177-2.png"], ["38ef5b63e50f4223a614d0f32fe41881-1.png", "38ef5b63e50f4223a614d0f32fe41881-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "gguupptt": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "593pc54a", "identifiers": ["mitsuru_184"], "images": [["38df919070b144feaf909bb36b5d7ce8-1.png", "38df919070b144feaf909bb36b5d7ce8-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ttppvvtt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "bm4r0xzz", "identifiers": ["mitsuru_103"], "images": [["c942324ffd4d455f89525e914bf909cb-1.png", "c942324ffd4d455f89525e914bf909cb-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "zg12py8y", "identifiers": ["mitsuru_261"], "images": [["1d9e4d26025e49a5ac62a800226aafbd-1.png", "1d9e4d26025e49a5ac62a800226aafbd-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ttttvvpp": {
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "9hmu7e52", "identifiers": ["mitsuru_262"], "images": [["994c0c0914f64045ac8ea0f3f5a878a1-1.png", "994c0c0914f64045ac8ea0f3f5a878a1-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ggnncctt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "4inh48yy", "identifiers": ["mitsuru_104"], "images": [["702d8afb7e80454f8af5b11dc1a8239a-1.png", "702d8afb7e80454f8af5b11dc1a8239a-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "nc539eni", "identifiers": ["mitsuru_185"], "images": [["8b15e365a98244c19e283e9a552c5eed-1.png", "8b15e365a98244c19e283e9a552c5eed-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ggccnntt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "5upth352", "identifiers": ["mitsuru_105"], "images": [["9be794ab51554a3aba467fef3136b8cb-1.png", "9be794ab51554a3aba467fef3136b8cb-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "fm3dlrxh", "identifiers": ["aw_18_369"], "images": [["4ccf8635ff004215a22c9475de651f95-1.png", "4ccf8635ff004215a22c9475de651f95-2.png"], ["89e4a7d93c414312b2bb26748bf25261-1.png", "89e4a7d93c414312b2bb26748bf25261-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "vepx1csw", "identifiers": ["mitsuru_263"], "images": [["53cadd702f2343cdb5cada4e279fcaf8-1.png", "53cadd702f2343cdb5cada4e279fcaf8-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tthhdddd": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "z3nxra47", "identifiers": ["mitsuru_106"], "images": [["8134b0d11e35411aa96c002b5ea8d3f0-1.png", "8134b0d11e35411aa96c002b5ea8d3f0-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "3zulq4jm", "identifiers": ["mitsuru_264"], "images": [["e5071f0b74f04671a161dcbe3ebacb18-1.png", "e5071f0b74f04671a161dcbe3ebacb18-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vvvvttss": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "1x4abxxp", "identifiers": ["mitsuru_107"], "images": [["c32d59c685ad4fa1ab1f357e2f27b959-1.png", "c32d59c685ad4fa1ab1f357e2f27b959-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "zuh1237t", "identifiers": ["mitsuru_187"], "images": [["b2efabeaa1ed43959125d9d775508d9b-1.png", "b2efabeaa1ed43959125d9d775508d9b-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "qxqsqs2d", "identifiers": ["mitsuru_265"], "images": [["7ed1c6410f574f9c86d17f73c499b9ae-1.png", "7ed1c6410f574f9c86d17f73c499b9ae-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ddqqlldd": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "fssy23um", "identifiers": ["mitsuru_108"], "images": [["13d7d004c7bc40f79b6581f1d85fcf73-1.png", "13d7d004c7bc40f79b6581f1d85fcf73-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "9z08rcqp", "identifiers": ["aw_17_1014_4"], "images": [["f0c858cd44d04422afbed276a6e71f4c-1.png", "f0c858cd44d04422afbed276a6e71f4c-2.png"], ["758417ff5fed4c1689da825e8c828199-1.png", "758417ff5fed4c1689da825e8c828199-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "221hw10q", "identifiers": ["mitsuru_266"], "images": [["df23a05f057f4b59afb6a2aacd0cf949-1.png", "df23a05f057f4b59afb6a2aacd0cf949-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ttllvvnn": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "9ux8ryye", "identifiers": ["mitsuru_109"], "images": [["ac0a48c15cfe48c88309098c57600e74-1.png", "ac0a48c15cfe48c88309098c57600e74-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "llvvnntt": {
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "dhpt0kvj", "identifiers": ["mitsuru_189"], "images": [["d73911ab332849fb88de00b0291c9f4f-1.png", "d73911ab332849fb88de00b0291c9f4f-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "x9qo9bdw", "identifiers": ["mitsuru_267"], "images": [["9f1069571f2545949729bbdf3cf84c13-1.png", "9f1069571f2545949729bbdf3cf84c13-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ddccvvcc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "0uj0x1ki", "identifiers": ["mitsuru_110"], "images": [["5bbcdce94f2b4c30be6b098f3b45c83d-1.png", "5bbcdce94f2b4c30be6b098f3b45c83d-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "oqawomew", "identifiers": ["mitsuru_190"], "images": [["5ff86f61ea554e1c8b3cba5755893c62-1.png", "5ff86f61ea554e1c8b3cba5755893c62-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ccttppcc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "jiguqehm", "identifiers": ["mitsuru_111"], "images": [["20413f9557214b80bc3a942824365a8f-1.png", "20413f9557214b80bc3a942824365a8f-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "2qm783x9", "identifiers": ["mitsuru_191"], "images": [["d47580ff029e4103bb3f80cc0fbd8c22-1.png", "d47580ff029e4103bb3f80cc0fbd8c22-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ppcccctt": {
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "mv5m6099", "identifiers": ["mitsuru_268"], "images": [["d5d4dce49a2b412fab3fc261237a5cd0-1.png", "d5d4dce49a2b412fab3fc261237a5cd0-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "hhpptttt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "bzigovu3", "identifiers": ["mitsuru_112"], "images": [["ae239c92ae7649578d6f0051b1adf5f2-1.png", "ae239c92ae7649578d6f0051b1adf5f2-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "8pxzpmou", "identifiers": ["mitsuru_192"], "images": [["99f50d376f214bbcb18e408074db5a5c-1.png", "99f50d376f214bbcb18e408074db5a5c-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "k7dyjq0t", "identifiers": ["mitsuru_269"], "images": [["8a489625ebd0486a90cd21c0b80695bc-1.png", "8a489625ebd0486a90cd21c0b80695bc-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vvppddpp": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "7w1s1ndi", "identifiers": ["mitsuru_113"], "images": [["9ff4859571ca46c4ae940d84ff7176c3-1.png", "9ff4859571ca46c4ae940d84ff7176c3-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "ia3501rs", "identifiers": ["mitsuru_193"], "images": [["2abf953978d84a0984c2f0630067ecf8-1.png", "2abf953978d84a0984c2f0630067ecf8-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "mc8h4zcb", "identifiers": ["mitsuru_270"], "images": [["0c9e00215f3f466e957bd1c8c0ad3c25-1.png", "0c9e00215f3f466e957bd1c8c0ad3c25-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ddppvvpp": {
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "lk9807uj", "identifiers": ["mitsuru_271"], "images": [["73b2fd3c46454ea995eab28d9ce1c6c8-1.png", "73b2fd3c46454ea995eab28d9ce1c6c8-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "nnccddcc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "iqo52i9t", "identifiers": ["mitsuru_114"], "images": [["8cd58a9db53046a0986ce60947cbece8-1.png", "8cd58a9db53046a0986ce60947cbece8-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "qskqssr9", "identifiers": ["mitsuru_194"], "images": [["909426cb6bd246d78e6a0696dc97a9f9-1.png", "909426cb6bd246d78e6a0696dc97a9f9-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "vf0nirl0", "identifiers": ["Mitsuru_272"], "images": [["083cf31e659444e48b5481339a051b27-1.png", "083cf31e659444e48b5481339a051b27-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ccnnttkk": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "q9ifgsc1", "identifiers": ["mitsuru_115"], "images": [["3417f1c1d85c4dd4bd5e76be4896645c-1.png", "3417f1c1d85c4dd4bd5e76be4896645c-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "5q8qglvl", "identifiers": ["mitsuru_195"], "images": [["20c13ac2d11d43f39e672f9921cb38ff-1.png", "20c13ac2d11d43f39e672f9921cb38ff-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "mh8uql0a", "identifiers": ["mitsuru_273"], "images": [["0ab5305a693a437c8db23ba3d71af860-1.png", "0ab5305a693a437c8db23ba3d71af860-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "pltt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "uj0sl7fw", "identifiers": ["mitsuru_116"], "images": [["5ab87165f67447a4bb94bd4d987a921b-1.png", "5ab87165f67447a4bb94bd4d987a921b-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "r3khpuhn", "identifiers": ["chcoin_4033460"], "images": [["c6ec9d26e83f4611a3baf0844ebe750c-1.png", "c6ec9d26e83f4611a3baf0844ebe750c-2.png"], ["b1dd4d54487e450786f5aea54ebc323e-1.png", "b1dd4d54487e450786f5aea54ebc323e-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "oyncivhh", "identifiers": ["mitsuru_274"], "images": [["375802fc479a44e0a85613c14e921c75-1.png", "375802fc479a44e0a85613c14e921c75-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "nhlt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "bsonbsnw", "identifiers": ["mitsuru_117"], "images": [["8b3ac14ec026423e93f793c81205930d-1.png", "8b3ac14ec026423e93f793c81205930d-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "tqq1wew4", "identifiers": ["mitsuru_197"], "images": [["af8b10dfd2654ba49f997a94c27827ec-1.png", "af8b10dfd2654ba49f997a94c27827ec-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "vgkb4tb4", "identifiers": ["mitsuru_275"], "images": [["2721ca5760e144158582c1ad380ee884-1.png", "2721ca5760e144158582c1ad380ee884-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ddqv": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "eyjqxp14", "identifiers": ["mitsuru_118"], "images": [["a0fd3656802d46fbacafe9ffa1c6ea8d-1.png", "a0fd3656802d46fbacafe9ffa1c6ea8d-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "gksh2rdz", "identifiers": ["chcoin_4648503_1"], "images": [["f01ac70d4d9c47df959ef0da4e10ae12-1.png", "f01ac70d4d9c47df959ef0da4e10ae12-2.png"], ["e2f58a2d285b4b799c92274524df76ae-1.png", "e2f58a2d285b4b799c92274524df76ae-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "okwhi7xm", "identifiers": ["mitsuru_276"], "images": [["0c028be0b1484cad8c2ffee2136fd1a5-1.png", "0c028be0b1484cad8c2ffee2136fd1a5-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ldhs": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "3cfqzh0g", "identifiers": ["mitsuru_119"], "images": [["9a0582deca40486081786cabd74fa204-1.png", "9a0582deca40486081786cabd74fa204-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "58gcckfe", "identifiers": ["mitsuru_199"], "images": [["9e9c3d8f189b4ae2940aa2b146b1ef9d-1.png", "9e9c3d8f189b4ae2940aa2b146b1ef9d-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "bb3f05es", "identifiers": ["chcoin_2178122_8"], "images": [["223dcba0fc2d453fb9cfea3b59c9e39a-1.png", "223dcba0fc2d453fb9cfea3b59c9e39a-2.png"], ["8b5f1f816b3146d195330f6bc2be0004-1.png", "8b5f1f816b3146d195330f6bc2be0004-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "lptd": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "u9rx5jvj", "identifiers": ["mitsuru_120"], "images": [["3be7320b8fa94ace9eb8055a03192aa8-1.png", "3be7320b8fa94ace9eb8055a03192aa8-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "kptd": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "djjdctx5", "identifiers": ["mzr_168_2178"], "images": [["510012b463b348e192163093d3bf1d35-1.png", "510012b463b348e192163093d3bf1d35-2.png"], ["124e78eecb0f4c0f814a5b4076fbf60f-1.png", "124e78eecb0f4c0f814a5b4076fbf60f-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "dj59hf4f", "identifiers": ["mitsuru_200"], "images": [["fb8d4c2e183c471a8ece4f2b51ea0931-1.png", "fb8d4c2e183c471a8ece4f2b51ea0931-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "89k7ctrr", "identifiers": ["mitsuru_278"], "images": [["d8239beb98704eafabc4b40c2d8b08ae-1.png", "d8239beb98704eafabc4b40c2d8b08ae-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thvd": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "p037bj9n", "identifiers": ["mitsuru_122"], "images": [["acdd5bb24e534e9299504ddce63e12a8-1.png", "acdd5bb24e534e9299504ddce63e12a8-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "brblvyde", "identifiers": ["mitsuru_201"], "images": [["379de65f103245b89fef714e06ec78d4-1.png", "379de65f103245b89fef714e06ec78d4-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "efn5dcbs", "identifiers": ["mitsuru_279"], "images": [["389a6c44f8b24ab09c6517851e94491f-1.png", "389a6c44f8b24ab09c6517851e94491f-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "cktc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "gnlwkj78", "identifiers": ["mitsuru_123"], "images": [["2239bbd247dd43d188e8bb2920bc1903-1.png", "2239bbd247dd43d188e8bb2920bc1903-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "vpltavdd", "identifiers": ["mitsuru_202"], "images": [["1578fd9e64114da8a27cd59f0f15a62f-1.png", "1578fd9e64114da8a27cd59f0f15a62f-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "s2jlmr3e", "identifiers": ["mitsuru_280"], "images": [["94c012c6eaae4c5292b64b6282c2263d-1.png", "94c012c6eaae4c5292b64b6282c2263d-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "xcst": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "30dqq4rv", "identifiers": ["mitsuru_124"], "images": [["8fd7e169c86c40ff912d6171e93431c9-1.png", "8fd7e169c86c40ff912d6171e93431c9-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "cwo8q9mx", "identifiers": ["sina_2016_12_03"], "images": [["1e04ce0b59b64408869970db57416493-1.png", "1e04ce0b59b64408869970db57416493-2.png"], ["e40cd563b2864cb1bc95d1f033c2451f-1.png", "e40cd563b2864cb1bc95d1f033c2451f-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "y7fp8vay", "identifiers": ["mitsuru_281"], "images": [["538a3a917c1848ee9d84f545ea6b8a7b-1.png", "538a3a917c1848ee9d84f545ea6b8a7b-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vtvl": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "pmxdjmif", "identifiers": ["nca_54_779"], "images": [["f8c7ddda0c214a7da79187d9ff3adb42-1.png", "f8c7ddda0c214a7da79187d9ff3adb42-2.png"], ["8ac1f2a62c2b4f9eaf4096d173b6c226-1.png", "8ac1f2a62c2b4f9eaf4096d173b6c226-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "dwrgo3e0", "identifiers": ["huab_3009_2"], "images": [["71bc66290ea54a6c92f3616356448816-1.png", "71bc66290ea54a6c92f3616356448816-2.png"], ["49a7214c887a470980f37c5bf9b44c39-1.png", "49a7214c887a470980f37c5bf9b44c39-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "rcc39z4w", "identifiers": ["huab_3009_1"], "images": [["35c20a5263e940bda4bd37453e17b0b5-1.png", "35c20a5263e940bda4bd37453e17b0b5-2.png"], ["2fb5cd028f87426880862d03e199e02c-1.png", "2fb5cd028f87426880862d03e199e02c-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "gupt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "d33vo1g8", "identifiers": ["mitsuru_126"], "images": [["aaf2ec102d2f4fc89c5d6ae1ffd197b0-1.png", "aaf2ec102d2f4fc89c5d6ae1ffd197b0-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "y5r5etyd", "identifiers": ["mitsuru_205"], "images": [["be17ea6fd6ff41ae8271b92d81c49cac-1.png", "be17ea6fd6ff41ae8271b92d81c49cac-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "v2s7p71l", "identifiers": ["mitsuru_283"], "images": [["48c0ef8ba31b4d0098837f18d65b1670-1.png", "48c0ef8ba31b4d0098837f18d65b1670-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tpvt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "b8zizf4f", "identifiers": ["mitsuru_127"], "images": [["bd39de7ec51e4be088035f8ca48f245a-1.png", "bd39de7ec51e4be088035f8ca48f245a-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "q92jtknj", "identifiers": ["mitsuru_206"], "images": [["742d26eab0394e7299966c23222f70a0-1.png", "742d26eab0394e7299966c23222f70a0-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "igbkikow", "identifiers": ["mitsuru_284"], "images": [["53e5862c2e084d5e850e4a34acf564ea-1.png", "53e5862c2e084d5e850e4a34acf564ea-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "gnct": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "lvljqel3", "identifiers": ["mitsuru_128"], "images": [["00dcd7b4abbf445b8ae13b928049932a-1.png", "00dcd7b4abbf445b8ae13b928049932a-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "p9ymzvwt", "identifiers": ["mitsuru_207"], "images": [["13e17448f3cc4537957cc936a06bea83-1.png", "13e17448f3cc4537957cc936a06bea83-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "emalrjs1", "identifiers": ["mitsuru_285"], "images": [["7cb7467fae6c43d9bee210329cf78321-1.png", "7cb7467fae6c43d9bee210329cf78321-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "gcnt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "pnupceuf", "identifiers": ["qhmsg_ooi6gy"], "images": [["01daa9db8b19405ba0a10dab2e9c7555-1.png", "01daa9db8b19405ba0a10dab2e9c7555-2.png"], ["31d0b089e44b4496a2e82c1702cf5078-1.png", "31d0b089e44b4496a2e82c1702cf5078-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "p4dufbd4", "identifiers": ["mitsuru_208"], "images": [["bd2d48d1a33240ed8b80e48785f333fd-1.png", "bd2d48d1a33240ed8b80e48785f333fd-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "fhtii9dy", "identifiers": ["mitsuru_286"], "images": [["d730de37958c4e5ab7eeaa4985c538db-1.png", "d730de37958c4e5ab7eeaa4985c538db-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thdd": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "ewev3ysb", "identifiers": ["aw_18_368"], "images": [["23200a25404b4900a70bf46f8705c0e0-1.png", "23200a25404b4900a70bf46f8705c0e0-2.png"], ["e14eee5fe3b54e87b775d2faf13adb24-1.png", "e14eee5fe3b54e87b775d2faf13adb24-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "gqkfdlu9", "identifiers": ["mitsuru_209"], "images": [["27fd9087adef4cbc8958e7f98b7218cd-1.png", "27fd9087adef4cbc8958e7f98b7218cd-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "iyb09lun", "identifiers": ["mitsuru_287"], "images": [["b0fd28d3109f46db9a82e63fc82dbb32-1.png", "b0fd28d3109f46db9a82e63fc82dbb32-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vvts": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "cwvnnzre", "identifiers": ["mitsuru_131"], "images": [["9710847aca66416fa569073c49147217-1.png", "9710847aca66416fa569073c49147217-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "328gbp3j", "identifiers": ["aw_17_1014_5"], "images": [["451bf931d88e434da46e040e755ac583-1.png", "451bf931d88e434da46e040e755ac583-2.png"], ["035d30af06314d899029a74322379bae-1.png", "035d30af06314d899029a74322379bae-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "cqiud2t1", "identifiers": ["mitsuru_288"], "images": [["b28916ef0a0a4fd684dedfc88391cb48-1.png", "b28916ef0a0a4fd684dedfc88391cb48-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "dqld": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "ddkkhmzw", "identifiers": ["chcoin_2178122_2"], "images": [["c68490da3bc74cbd9cddf848a24c668a-1.png", "c68490da3bc74cbd9cddf848a24c668a-2.png"], ["19471a551f854f0486aed89c3672a41b-1.png", "19471a551f854f0486aed89c3672a41b-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "lor1l97b", "identifiers": ["mitsuru_211"], "images": [["dceda1c42ca940c49ab0960500dc96e0-1.png", "dceda1c42ca940c49ab0960500dc96e0-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "ce5ut7fb", "identifiers": ["mitsuru_289"], "images": [["22dd790811de447a89bd24d269b9a203-1.png", "22dd790811de447a89bd24d269b9a203-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tlvn": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "5p3tct2k", "identifiers": ["mitsuru_133"], "images": [["bd7c8d49c293473dbb9a3d118da75154-1.png", "bd7c8d49c293473dbb9a3d118da75154-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "2t2g9g8d", "identifiers": ["mitsuru_212"], "images": [["c50b5dac87324831904d396f03c66257-1.png", "c50b5dac87324831904d396f03c66257-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "ana4ctkq", "identifiers": ["yajp_r461366293"], "images": [["3e8f44b80fef44a09d8db647a5217a96-1.png", "3e8f44b80fef44a09d8db647a5217a96-2.png"], ["ca77bb3264c747bca9ce55f222f7c395-1.png", "ca77bb3264c747bca9ce55f222f7c395-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "dcvc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "w1qppx07", "identifiers": ["mitsuru_134"], "images": [["44eef4e0984f4a6bbc48871684bbf0d3-1.png", "44eef4e0984f4a6bbc48871684bbf0d3-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "whb5eosh", "identifiers": ["mitsuru_213"], "images": [["042dfb7a685b4b8daf48e7abc3f06377-1.png", "042dfb7a685b4b8daf48e7abc3f06377-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "nj7dh9m7", "identifiers": ["yajp_b158043899"], "images": [["71fedf5a1dca4542bf020969b8084927-1.png", "71fedf5a1dca4542bf020969b8084927-2.png"], ["c3b1b8fb0f514b1491b0ce11ebfe93b0-1.png", "c3b1b8fb0f514b1491b0ce11ebfe93b0-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "pttq": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "ak4gjkih", "identifiers": ["mitsuru_135"], "images": [["5fb79825fa3e499c8fa2c53ef245c5c1-1.png", "5fb79825fa3e499c8fa2c53ef245c5c1-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "h7nnuiex", "identifiers": ["huay_2017_09_20"], "images": [["72ab989a7bf149a194d8fc68d7f571cd-1.png", "72ab989a7bf149a194d8fc68d7f571cd-2.png"], ["725641ac811147989d08594f81ab4a50-1.png", "725641ac811147989d08594f81ab4a50-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "dxghc007", "identifiers": ["mitsuru_292"], "images": [["55b7731a00fe4302a83ab01762eeca97-1.png", "55b7731a00fe4302a83ab01762eeca97-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "htll": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "mjsd0kb3", "identifiers": ["mitsuru_136"], "images": [["9b7120507cc14b0ca3f60daa05b1e570-1.png", "9b7120507cc14b0ca3f60daa05b1e570-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "34o9itdu", "identifiers": ["chcoin_2178122_4"], "images": [["c43e56f25048435e89aedfc0f308132b-1.png", "c43e56f25048435e89aedfc0f308132b-2.png"], ["b899a05cf0654d509f1cd3b7d5fede17-1.png", "b899a05cf0654d509f1cd3b7d5fede17-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "1o2bhe3e", "identifiers": ["sina_2016_12_30_2"], "images": [["4c1eb8c32dee48a19f7ae19bd44ee01a-1.png", "4c1eb8c32dee48a19f7ae19bd44ee01a-2.png"], ["418757ad2f8b40789cf75a6d7ca0f9ff-1.png", "418757ad2f8b40789cf75a6d7ca0f9ff-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ttla": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "qirs2moj", "identifiers": ["mitsuru_137"], "images": [["378b997247fd4f71bc82b94a110d8535-1.png", "378b997247fd4f71bc82b94a110d8535-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "az2jyb1e", "identifiers": ["mitsuru_216"], "images": [["5e1b2ef95dc24b829cb4a7737fb63d4b-1.png", "5e1b2ef95dc24b829cb4a7737fb63d4b-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "k2y4xwww", "identifiers": ["mitsuru_294"], "images": [["05f78addd134462eb0bf7204e3cde257-1.png", "05f78addd134462eb0bf7204e3cde257-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "mhtt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "cqc8xgp4", "identifiers": ["zeno_45190"], "images": [["7e788c509d044380a80584b3b4d76f11-1.png", "7e788c509d044380a80584b3b4d76f11-2.png"], ["981d5594b29149e0af37fee812c74ab3-1.png", "981d5594b29149e0af37fee812c74ab3-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "gytx372h", "identifiers": ["mitsuru_217"], "images": [["47a585a7e8af4795afb9cf0cb4b14eed-1.png", "47a585a7e8af4795afb9cf0cb4b14eed-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "lxxqden0", "identifiers": ["mitsuru_295"], "images": [["498a7298406e415d8f21def4b9548dc8-1.png", "498a7298406e415d8f21def4b9548dc8-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ctpc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "aalv5dvk", "identifiers": ["mitsuru_139"], "images": [["d4578bc8a9e64cdab5cdf57492b14c6b-1.png", "d4578bc8a9e64cdab5cdf57492b14c6b-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "djtsjsgu", "identifiers": ["mitsuru_218"], "images": [["ee70aee2ab004f1eb2d1e3120c93c61d-1.png", "ee70aee2ab004f1eb2d1e3120c93c61d-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "gat725yy", "identifiers": ["mitsuru_296"], "images": [["af5ec45653d0478da2e05d9dfd1a4a83-1.png", "af5ec45653d0478da2e05d9dfd1a4a83-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tqtp": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "1n7vmoxd", "identifiers": ["mitsuru_140"], "images": [["e1194efff273400f81bd27d5d2c382c2-1.png", "e1194efff273400f81bd27d5d2c382c2-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "bzeuye10", "identifiers": ["mitsuru_219"], "images": [["39d81be62ef2405b804f60eb93f48af8-1.png", "39d81be62ef2405b804f60eb93f48af8-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "88lvc9hx", "identifiers": ["mitsuru_297"], "images": [["e02c0a2d0f8a44a89cd7ed4eabe4551f-1.png", "e02c0a2d0f8a44a89cd7ed4eabe4551f-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vdak": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "ux5sl0x1", "identifiers": ["mitsuru_141"], "images": [["2fce3f03f30045ccad31df619daf8a8e-1.png", "2fce3f03f30045ccad31df619daf8a8e-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "8o9o10ti", "identifiers": ["aw_17_1014_2"], "images": [["03c15abb408d4dbba64ea3f267410d93-1.png", "03c15abb408d4dbba64ea3f267410d93-2.png"], ["aba208b088604647847c728c3edf4f2f-1.png", "aba208b088604647847c728c3edf4f2f-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "8z34otoa", "identifiers": ["mitsuru_298"], "images": [["34795d3b1b274f4ea459e27949f6cec4-1.png", "34795d3b1b274f4ea459e27949f6cec4-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "hptt": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "g80wqgcq", "identifiers": ["mitsuru_142"], "images": [["95d8eca6a02c4ddf9b3cdaf764275a89-1.png", "95d8eca6a02c4ddf9b3cdaf764275a89-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "cyqy4ghs", "identifiers": ["chcoin_2178122_5"], "images": [["9844688cf6c349e2838491593f9013c5-1.png", "9844688cf6c349e2838491593f9013c5-2.png"], ["59c24656203047a0b260e93ffcc89348-1.png", "59c24656203047a0b260e93ffcc89348-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "5ef9qzc1", "identifiers": ["mitsuru_299"], "images": [["de2b7ccabc2a4b87b3e82fb934e957f1-1.png", "de2b7ccabc2a4b87b3e82fb934e957f1-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "vpdp": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "8gamqa03", "identifiers": ["shu_2017_12_2495"], "images": [["133bd8a6596c470da1f113d5d294ca3c-1.png", "133bd8a6596c470da1f113d5d294ca3c-2.png"], ["c81fc4dac12b47098325400942fccc21-1.png", "c81fc4dac12b47098325400942fccc21-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "y8o1p9mu", "identifiers": ["mitsuru_222"], "images": [["23f5d24654d14c9ab94fad681324ca30-1.png", "23f5d24654d14c9ab94fad681324ca30-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "jfoqx3pc", "identifiers": ["mitsuru_300"], "images": [["f9f3828a1a7e4828972e44d79a8390ea-1.png", "f9f3828a1a7e4828972e44d79a8390ea-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "qpda": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "9tsnfhqf", "identifiers": ["yajp_w1103278432"], "images": [["4cbb4147d4a344ceb99a8f9c74e02d64-1.png", "4cbb4147d4a344ceb99a8f9c74e02d64-2.png"], ["eb398544d2384eea8e4949d42b9dc0f8-1.png", "eb398544d2384eea8e4949d42b9dc0f8-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "ot7z1k5p", "identifiers": ["mitsuru_223"], "images": [["ec4452d92afa435695fe01b48f84ae7a-1.png", "ec4452d92afa435695fe01b48f84ae7a-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "t3uv8y3r", "identifiers": ["mitsuru_301"], "images": [["3c8e2cea48ad4a8ca5e31a68d2fcf80f-1.png", "3c8e2cea48ad4a8ca5e31a68d2fcf80f-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "ncdc": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "wineed9i", "identifiers": ["jnq_24"], "images": [["1cad6c91e43343b2bf115a3440de9c23-1.png", "1cad6c91e43343b2bf115a3440de9c23-2.png"], ["cdcdc171b92f42e3bf158d2f2871d945-1.png", "cdcdc171b92f42e3bf158d2f2871d945-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "da1l19v2", "identifiers": ["mitsuru_224"], "images": [["4e0b2132082b4f95b222bf7347f2e35f-1.png", "4e0b2132082b4f95b222bf7347f2e35f-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "er0tpmms", "identifiers": ["mitsuru_302"], "images": [["413e8b4399964077a3c395859b1b857f-1.png", "413e8b4399964077a3c395859b1b857f-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "cntk": {
+    "minh_menh": {"diameter": "", "emperor": "minh_menh", "entity": "zs0m330c", "identifiers": ["mitsuru_146"], "images": [["9ab16fa410ef4aa3b961e4e1c9241c2f-1.png", "9ab16fa410ef4aa3b961e4e1c9241c2f-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "thieu_tri": {"diameter": "", "emperor": "thieu_tri", "entity": "f3w3knbl", "identifiers": ["mitsuru_225"], "images": [["198064aa01bc4a43a34971d9340c202f-1.png", "198064aa01bc4a43a34971d9340c202f-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "tu_duc": {"diameter": "", "emperor": "tu_duc", "entity": "is3ixv2t", "identifiers": ["mitsuru_303"], "images": [["07dd35eab976406bbfcd301fa593e9a8-1.png", "07dd35eab976406bbfcd301fa593e9a8-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  }
+}

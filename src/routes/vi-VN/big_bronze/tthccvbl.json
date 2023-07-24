@@ -1,0 +1,5 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "9dkf3vz5", "template": "", "type": "coin", "relative": "1" },
+  { "route": "Tiền_đồng_lớn/Thiệu_Trị_thông_bảo/Tự_thiên_hựu_chi_cát_vô_bất_lợi/BNF_1623", "active": "1", "descendant": "bnf_1623", "entity": "nrvn1o7p", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Tự_thiên_hựu_chi_cát_vô_bất_lợi/LMHH_2020_4858_1", "active": "1", "descendant": "lmhh_2020_4858_1", "entity": "xe8lq234", "template": "", "relative": "0" }
+]

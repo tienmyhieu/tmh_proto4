@@ -1,0 +1,8 @@
+{
+  "thieu_tri": {
+    "sarc_20_2146": {"diameter": "53.00", "emperor": "thieu_tri", "entity": "eaan9tfq", "identifiers": ["sarc_20_2146"], "images": [["aeb7b18636bd429eb6529019874d231e-1.png", "aeb7b18636bd429eb6529019874d231e-2.png"], ["14e01c2a70cc44cba0305f2713e7124e-1.png", "14e01c2a70cc44cba0305f2713e7124e-2.png"]], "type": "1", "uploads": [["a81abcdbf47349449f94165516271691.jpg", "25150135533e452c8405408691d0120d.jpg"]], "weight": "" }
+  },
+  "tu_duc": {
+    "sarc_39_1475": {"diameter": "51.00", "emperor": "tu_duc", "entity": "nws8z5a1", "identifiers": ["sarc_39_1475"], "images": [["fb8a6f1a032e46cf87e13255eb2a2720-1.png", "fb8a6f1a032e46cf87e13255eb2a2720-2.png"], ["9383161545f54265948eee0b972dc9a4-1.png", "9383161545f54265948eee0b972dc9a4-2.png"]], "type": "1", "uploads": [["82c2715c5f0b423b91806e2696f56dad.jpg", "2aa750295d9e41c4b90662d4e948eb24.jpg"]], "weight": "43.69" }
+  }
+}

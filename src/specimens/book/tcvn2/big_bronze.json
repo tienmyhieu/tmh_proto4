@@ -1,0 +1,13 @@
+{
+  "metadata": { "multiple": "0" },
+  "minh_menh": {
+    "luc_vo_3_9": {"diameter": "", "emperor": "minh_menh", "entity": "tg9nrlb7", "identifiers": ["luc_vo_3_9"], "images": [["b2b303e384474c69b2df6501e8d95e60-1.png", "b2b303e384474c69b2df6501e8d95e60-2.png"]], "type": "2", "uploads": [], "weight": "" },
+    "luc_vo_3_10": {"diameter": "", "emperor": "minh_menh", "entity": "d1jbwp18", "identifiers": ["luc_vo_3_10"], "images": [["d23afad411f7452b9e9c2c4e67c44b05-1.png", "d23afad411f7452b9e9c2c4e67c44b05-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thieu_tri": {
+    "barker_182": {"diameter": "50.38", "emperor": "thieu_tri", "entity": "19fncx4f", "identifiers": ["barker_182", "huay_18_0301_3_106"], "images": [["de292dcbb56f4e5c80346a19cbf359c1-1.png", "de292dcbb56f4e5c80346a19cbf359c1-2.png"], ["1f86c7cbea3747d496761aa5e670b326-1.png", "1f86c7cbea3747d496761aa5e670b326-2.png"], ["2c99ba380228451199add33feb21a104-1.png", "2c99ba380228451199add33feb21a104-2.png"]], "type": "1", "uploads": [["5880373d96e74508a09fdfb64bafa177.jpg", "8995dc6d1dbc486f862a05079b64b28d.jpg"], ["f3e94aa3b8e04604bcb04ba430ef1942.jpg"]], "weight": "32.28" }
+  },
+  "tu_duc": {
+    "luc_vo_3_17": {"diameter": "", "emperor": "tu_duc", "entity": "d1jbwp18", "identifiers": ["luc_vo_3_17"], "images": [["e44bfd86f7bf4325b937b21bff263eb2-1.png", "e44bfd86f7bf4325b937b21bff263eb2-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  }
+}

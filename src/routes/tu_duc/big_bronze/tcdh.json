@@ -1,0 +1,8 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "qdugszrn", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Barker_201", "active": "1", "descendant": "barker_201", "entity": "zt1n7quz", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BNF_1789", "active": "1", "descendant": "bnf_1789", "entity": "1q1o2nwu", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BTTPHCM_66", "active": "1", "descendant": "bttphcm_66", "entity": "jwnzggys", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "HAE_2023_7733", "active": "1", "descendant": "hae_2023_7733", "entity": "sky3uutw", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "CN_96_4_5", "active": "1", "descendant": "cn_96_4_5", "entity": "g89x459f", "template": "", "type": "specimen", "relative": "1" }
+]

@@ -1,0 +1,10 @@
+{
+  "thieu_tri": {
+    "bru10_192": {"diameter": "", "emperor": "thieu_tri", "entity": "mkd4ozrb", "identifiers": ["bru10_192"], "images": [["cc00fb2351e649c396478f0fa3ae961b-1.png", "cc00fb2351e649c396478f0fa3ae961b-2.png"], ["492619bfd5e0488cb1f17c445cffba19-1.png", "492619bfd5e0488cb1f17c445cffba19-2.png"]], "type": "1", "uploads": [["e7b959868db44fd8a51d2a46a56ea1b5.jpg", "2f5292ecb52845f59f6b1756fac6da7b.jpg"]], "weight": "35.82" }
+  },
+  "tu_duc": {
+    "bru10_197": {"diameter": "", "emperor": "tu_duc", "entity": "sf7ipdsz", "identifiers": ["bru10_197"], "images": [["0c7c169da1174711a70ae1bb658eb262-1.png", "0c7c169da1174711a70ae1bb658eb262-2.png"], ["07696bfe572b402c94d814d70c456fdf-1.png", "07696bfe572b402c94d814d70c456fdf-2.png"]], "type": "1", "uploads": [["4913d267c4e7498b8571d45a5c719a28.jpg", "e7a1fb6f87f64bc0948abf8c74ca584d.jpg"]], "weight": "30.99" },
+    "bru10_198": {"diameter": "", "emperor": "tu_duc", "entity": "hmt2ygfz", "identifiers": ["bru10_198"], "images": [["50c4bd9df0a74d9fa3b9cc8ecaa6eb98-1.png", "50c4bd9df0a74d9fa3b9cc8ecaa6eb98-2.png"], ["fd212e34e51a49159aa23eff2e1e172c-1.png", "fd212e34e51a49159aa23eff2e1e172c-2.png"]], "type": "1", "uploads": [["9ca3350074b84821918956dbb37ed6c4.jpg", "289db2daae704c6ca5c56b99ce9d2e20.jpg"]], "weight": "35.16" },
+    "bru10_199": {"diameter": "", "emperor": "tu_duc", "entity": "po3uwpp7", "identifiers": ["bru10_199"], "images": [["1c774f3773944bc799a9f2ab432ba08c-1.png", "1c774f3773944bc799a9f2ab432ba08c-2.png"], ["3b075da97c264f0fa6eb2f2ffe6bce69-1.png", "3b075da97c264f0fa6eb2f2ffe6bce69-2.png"]], "type": "1", "uploads": [["00f710c013ec49358bb52d284728f646.jpg", "e37afc44fdfb45399b4b99b203403355.jpg"]], "weight": "36.98" }
+  }
+}

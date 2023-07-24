@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "4kc21b08", "template": "", "type": "coin", "relative": "1" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Như_sơn_như_xuyên_như_cương_như_phụ/Barker_151", "active": "1", "descendant": "barker_151", "entity": "vc0j8fqz", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Thiệu_Trị_thông_bảo/Như_sơn_như_xuyên_như_cương_như_phụ/BNF_1622", "active": "1", "descendant": "bnf_1622", "entity": "wi773199", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Như_sơn_như_xuyên_như_cương_như_phụ/BTTPHCM_63", "active": "1", "descendant": "bttphcm_63", "entity": "0v8bcg8f", "template": "", "relative": "0" }
+]

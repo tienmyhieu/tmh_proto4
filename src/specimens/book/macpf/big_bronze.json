@@ -1,0 +1,7 @@
+{
+  "metadata": { "multiple": "0" },
+  "minh_menh": {
+    "fc_1": {"diameter": "", "emperor": "minh_menh", "entity": "fq2uulto", "identifiers": ["fc_1"], "images": [["fcfa195060d442d4a8d0049941a04adf-1.png", "fcfa195060d442d4a8d0049941a04adf-2.png"], ["c41d97b678cc4e42ac3960bd6148f3b9-1.png", "c41d97b678cc4e42ac3960bd6148f3b9-2.png"]], "type": "1", "uploads": [], "weight": "28.08" },
+    "mbad_1": { "diameter": "51.50", "emperor": "minh_menh", "entity": "hx2z3y3s", "identifiers": ["mbad_1"], "images": [["b9d189bd3ccc458886c888cba23382d4-1.png", "b9d189bd3ccc458886c888cba23382d4-2.png"], ["ed7add98e14a4215b349cf9a84055224-1.png", "ed7add98e14a4215b349cf9a84055224-2.png"]], "type": "1", "uploads": [], "weight": "28.51" }
+  }
+}

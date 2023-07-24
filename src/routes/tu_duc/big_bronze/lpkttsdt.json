@@ -1,0 +1,7 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "80hpqb8q", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Seigo_21", "active": "1", "descendant": "seigo_21", "entity": "edobcm54", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Okura_91_1", "active": "1", "descendant": "okura_91_1", "entity": "xxbd5i7z", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Ikaru_46", "active": "1", "descendant": "ikaru_46", "entity": "9rdem97o", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "SSSC_281759", "active": "1", "descendant": "sssc_281759", "entity": "ewoicwso", "template": "", "type": "specimen", "relative": "1" }
+]

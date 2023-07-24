@@ -1,0 +1,15 @@
+{
+  "minh_menh": {
+    "bjcx_2005_1368": {"diameter": "51.00", "emperor": "minh_menh", "entity": "1psvo75o", "identifiers": ["bjcx_2005_1368"], "images": [["b1b864efa6254cdabd46797b91960152-1.png", "b1b864efa6254cdabd46797b91960152-2.png"], ["b22e1604a9474915a9c301f8f325c3ae-1.png", "b22e1604a9474915a9c301f8f325c3ae-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "bjcx_2005_1369": {"diameter": "51.00", "emperor": "minh_menh", "entity": "2ibsgbkt", "identifiers": ["bjcx_2005_1369"], "images": [["51b56539f63342c3863b50165282650c-1.png", "51b56539f63342c3863b50165282650c-2.png"], ["4447351e55fb45d9ab51473eae0193a3-1.png", "4447351e55fb45d9ab51473eae0193a3-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "bjcx_2006_2411": {"diameter": "", "emperor": "minh_menh", "entity": "8mozbhyn", "identifiers": ["bjcx_2006_2411"], "images": [["2ddc409d5f4f4173bf7ed1bea6479a99-1.png", "2ddc409d5f4f4173bf7ed1bea6479a99-2.png"], ["0a7febc982e346ed99daa4a7ecc128cd-1.png", "0a7febc982e346ed99daa4a7ecc128cd-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "bjcx_2007_1158": {"diameter": "51.00", "emperor": "minh_menh", "entity": "ypnhqa17", "identifiers": ["bjcx_2007_1158"], "images": [["5277f0a4d0d14a5a96f39fa5390aafee-1.png", "5277f0a4d0d14a5a96f39fa5390aafee-2.png"], ["0ac04b8d27d84d79b673d996210fb53f-1.png", "0ac04b8d27d84d79b673d996210fb53f-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thieu_tri": {
+    "bjcx_2006_1265": {"diameter": "", "emperor": "thieu_tri", "entity": "lw3oadjt", "identifiers": ["bjcx_2006_1265"], "images": [["b58959f9409146f6a02e51581393c8be-1.png", "b58959f9409146f6a02e51581393c8be-2.png"], ["c18c5b715c824697a3111d9617ef2e89-1.png", "c18c5b715c824697a3111d9617ef2e89-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tu_duc": {
+    "bjcx_2007_1156": {"diameter": "50.00", "emperor": "tu_duc", "entity": "c8rzd9cm", "identifiers": ["bjcx_2007_1156"], "images": [["8450da2e8cd8448f8d510ac7b9391490-1.png", "8450da2e8cd8448f8d510ac7b9391490-2.png"], ["b144cbdc7e744e569f59751091acd319-1.png", "b144cbdc7e744e569f59751091acd319-2.png"]], "type": "1", "uploads": [["97eaa746ce2b4c29b6708430d990b139.jpg", "a095c39a466d401ab1c4305601aeaee4.jpg"]], "weight": "" },
+    "bjcx_2006_1264": {"diameter": "", "emperor": "tu_duc", "entity": "b8msozp5", "identifiers": ["bjcx_2006_1264"], "images": [["c3b5bc6a737d4897850a693155421efe-1.png", "c3b5bc6a737d4897850a693155421efe-2.png"], ["17a07aa30bc24790a3adf81f303ff459-1.png", "17a07aa30bc24790a3adf81f303ff459-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  }
+}

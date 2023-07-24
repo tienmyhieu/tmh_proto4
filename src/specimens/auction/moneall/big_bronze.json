@@ -1,0 +1,8 @@
+{
+  "thieu_tri": {
+    "ma_20_0334": {"diameter": "", "emperor": "thieu_tri", "entity": "uvxvg15e", "identifiers": ["ma_20_0334"], "images": [["7872452deebc4402beebf5826bc503c8-1.png", "7872452deebc4402beebf5826bc503c8-2.png"], ["0b72d9e81a054027b697291b7edfbbd5-1.png", "0b72d9e81a054027b697291b7edfbbd5-2.png"]], "type": "1", "uploads": [["559801e4d10342028b9c9af4950919a9.jpg", "881ffe3e95154e71aa5d95bc32dfa2b2.jpg"]], "weight": "" }
+  },
+  "tu_duc": {
+    "ma_9_0499": {"diameter": "", "emperor": "tu_duc", "entity": "cf8ammgt", "identifiers": ["ma_9_0499"], "images": [["c5d915fbe07640f6a929325a97748761-1.png", "c5d915fbe07640f6a929325a97748761-2.png"], ["fe6e169d542640cc92654e8391054b17-1.png", "fe6e169d542640cc92654e8391054b17-2.png"]], "type": "1", "uploads": [["41c173e47cc54dd3bed7f8f405c02069.jpg", "4e5fa1c97731410285f5bc217bb84b18.jpg"]], "weight": "" }
+  }
+}

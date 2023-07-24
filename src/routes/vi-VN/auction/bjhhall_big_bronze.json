@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "3khoszhg", "template": "", "type": "auction", "relative": "1" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Vương_đạo_đãng_đãng_thánh_mô_dương_dương/BJHH_2011_0683_1", "active": "1", "descendant": "", "entity": "ax3dll9y", "template": "", "type": "auction", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Gia_cấp_nhân_túc/BJHH_2011_0683_2", "active": "1", "descendant": "", "entity": "isi480j9", "template": "", "type": "auction", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Thiệu_Trị_thông_bảo/Xuyên_chí_sơn_tăng/BJHH_2011_0682", "active": "1", "descendant": "", "entity": "mdcrf8zw", "template": "", "type": "auction", "relative": "0" }
+]

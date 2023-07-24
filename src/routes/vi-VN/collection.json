@@ -1,0 +1,10 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "eed1i4rt", "template": "", "type": "list", "relative": "1" },
+  { "route": "プロフィール", "active": "1", "descendant": "ikaru", "entity": "7uf22ydb", "template": "", "type": "collection", "relative": "1" },
+  { "route": "我爱一两", "active": "1", "descendant": "woyl", "entity": "h3f4lvs1", "template": "", "type": "collection", "relative": "1" },
+  { "route": "广州老林", "active": "1", "descendant": "gzll", "entity": "xqpucuzp", "template": "", "type": "collection", "relative": "1" },
+  { "route": "Nguyễn_Nữ_Thiên_Hương", "active": "1", "descendant": "nnth", "entity": "dvhlde10", "template": "", "type": "collection", "relative": "1" },
+  { "route": "Gia_Định", "active": "1", "descendant": "gd", "entity": "qk93r9wl", "template": "", "type": "collection", "relative": "1" },
+  { "route": "Jean_Michel_Moullec", "active": "1", "descendant": "jmm", "entity": "p482ur3r", "template": "", "type": "collection", "relative": "1" },
+  { "route": "江南泉", "active": "1", "descendant": "jnq", "entity": "y9j3uryz", "template": "", "type": "collection", "relative": "1" }
+]

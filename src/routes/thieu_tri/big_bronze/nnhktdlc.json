@@ -1,0 +1,16 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "34ack7cl", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BNF_1621", "active": "1", "descendant": "bnf_1621", "entity": "gk7izrjq", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Seigo_15", "active": "1", "descendant": "seigo_15", "entity": "d2i4hta4", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Okura_76_1", "active": "1", "descendant": "okura_76_1", "entity": "kvl8c3gz", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Mitsuru_33", "active": "1", "descendant": "mitsuru_33", "entity": "fmbf7rvh", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Sallet_8", "active": "1", "descendant": "sallet_8", "entity": "c904g7yi", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "AW_11032", "active": "1", "descendant": "aw_11032", "entity": "a83atqyv", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Woyl_27", "active": "1", "descendant": "woyl_27", "entity": "f3v4787p", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Gzll_1", "active": "1", "descendant": "gzll_1", "entity": "kp7ego7v", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Nnth_4", "active": "1", "descendant": "nnth_4", "entity": "zeipfmup", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BTTPHCM_41", "active": "1", "descendant": "bttphcm_41", "entity": "q4sh0ehm", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BRMU_29", "active": "1", "descendant": "brmu_29", "entity": "pdy8bovb", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Kempgen_11", "active": "1", "descendant": "kempgen_11", "entity": "mz2812g7", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "GDCZ_2023_1423_21", "active": "1", "descendant": "gdcz_2023_1423_21", "entity": "f42kp4r3", "template": "", "type": "specimen", "relative": "1" }
+]

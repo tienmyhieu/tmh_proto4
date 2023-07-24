@@ -1,0 +1,5 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "kn998dl8", "template": "", "type": "museum", "relative": "1" },
+  { "route": "Tiền_đồng_lớn", "active": "1", "descendant": "big_bronze", "entity": "i2tw5kus", "template": "", "type": "museum", "relative": "1" },
+  { "route": "Tiền_đồng_lớn_không_có_hình_ảnh", "active": "1", "descendant": "big_bronze_no_images", "entity": "juymx13x", "template": "", "type": "museum", "relative": "1" }
+]

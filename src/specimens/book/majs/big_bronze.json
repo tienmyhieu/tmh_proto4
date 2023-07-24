@@ -1,0 +1,8 @@
+{
+  "metadata": { "multiple": "0" },
+  "minh_menh": {
+    "cariou_1": { "diameter": "51.00", "emperor": "minh_menh", "entity": "kgy32q95", "identifiers": ["cariou_1"], "images": [["4b7e1443452e4bc6b49150ee6a76120c-1.png", "4b7e1443452e4bc6b49150ee6a76120c-2.png"], ["d5fb0ea834464d0eb2148319741b5bc5-1.png", "d5fb0ea834464d0eb2148319741b5bc5-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "mdp_v336": {"diameter": "51.70", "emperor": "minh_menh", "entity": "m4cpbxwr", "identifiers": ["mdp_v336"], "images": [["43e83667498043998282227dded1fce2-1.png", "43e83667498043998282227dded1fce2-2.png"]], "type": "1", "uploads": [], "weight": "27.38" },
+    "mdp_v337": {"diameter": "51.20", "emperor": "minh_menh", "entity": "unsmrvci", "identifiers": ["mdp_v337"], "images": [["8475a58075184f84adbadc014e0e9661-1.png", "8475a58075184f84adbadc014e0e9661-2.png"]], "type": "1", "uploads": [], "weight": "29.78" }
+  }
+}

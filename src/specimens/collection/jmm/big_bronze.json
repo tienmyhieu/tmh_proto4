@@ -1,0 +1,11 @@
+{
+  "minh_menh": {
+    "jmm_1": {"diameter": "", "emperor": "minh_menh", "entity": "zuiyxzo1", "identifiers": ["jmm_1"], "images": [["5490be1e86a047058d2dff70a5383772-1.png", "5490be1e86a047058d2dff70a5383772-2.png"], ["bdab8c02f4814ae09e714d56183b2e26-1.png", "bdab8c02f4814ae09e714d56183b2e26-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thieu_tri": {
+    "jmm_2": {"diameter": "", "emperor": "thieu_tri", "entity": "f3cxubmr", "identifiers": ["jmm_2"], "images": [["806af230661d4ca68a21a54a87f945da-1.png", "806af230661d4ca68a21a54a87f945da-2.png"], ["73223a5142ad4c6ea98894fbac803eee-1.png", "73223a5142ad4c6ea98894fbac803eee-2.png"]], "type": "1", "uploads": [["38cd3c96c0e44ea98546600786c021a5.jpg", "1780f25843034c5fa6030d153bcdad85.jpg"]], "weight": "" }
+  },
+  "tu_duc": {
+    "jmm_3": {"diameter": "", "emperor": "tu_duc", "entity": "xnqd3h0t", "identifiers": ["jmm_3"], "images": [["c533f44a27324c879dda05849981c49b-1.png", "c533f44a27324c879dda05849981c49b-2.png"], ["eecf35b51c4b4564952d8d56400d3859-1.png", "eecf35b51c4b4564952d8d56400d3859-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  }
+}

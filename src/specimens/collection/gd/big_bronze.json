@@ -1,0 +1,16 @@
+{
+  "minh_menh": {
+    "gd_1": {"diameter": "", "emperor": "minh_menh", "entity": "lcwnj9o5", "identifiers": ["gd_1"], "images": [["bc04ac1d88b3430ba11225b6f49ea85d-1.png", "bc04ac1d88b3430ba11225b6f49ea85d-2.png"], ["5a153f99be3845e4b47fd8266ddf9037-1.png", "5a153f99be3845e4b47fd8266ddf9037-2.png"]], "type": "1", "uploads": [["ef598bf0e75b417295125571113f8282.jpg", "5d01fb2759764895b8b01c508255c95b.jpg"]], "weight": "" },
+    "gd_2": {"diameter": "", "emperor": "minh_menh", "entity": "hnl2zo8w", "identifiers": ["gd_2"], "images": [["e25c42db71d94de2ac5a2ac4c8e9bb10-1.png", "e25c42db71d94de2ac5a2ac4c8e9bb10-2.png"], ["158a497eafec4dae92f4f6b3d6f16f2e-1.png", "158a497eafec4dae92f4f6b3d6f16f2e-2.png"]], "type": "1", "uploads": [["e211a9e9d9cd4a7a8bf30a630b4cf872.jpg", "00c1c97f91a0439d814b1839281e568e.jpg"]], "weight": "" },
+    "gd_3": {"diameter": "", "emperor": "minh_menh", "entity": "df98w013", "identifiers": ["gd_3"], "images": [["0be93e69737e4d7980ca8c1986bd1c31-1.png", "0be93e69737e4d7980ca8c1986bd1c31-2.png"], ["075a9e5b375f4b5fb096f860eae5a862-1.png", "075a9e5b375f4b5fb096f860eae5a862-2.png"]], "type": "1", "uploads": [["f1588b2e2b604b4d8eac95da83e412c7.jpg", "22335d2f684545c2a5fc68df11e43773.jpg"]], "weight": "" },
+    "gd_4": {"diameter": "", "emperor": "minh_menh", "entity": "2f27m533", "identifiers": ["gd_4"], "images": [["532d496176aa4fb4a4602f36417c9568-1.png", "532d496176aa4fb4a4602f36417c9568-2.png"], ["faf4a96a036a4cc9b9c1e69b7d48ea0e-1.png", "faf4a96a036a4cc9b9c1e69b7d48ea0e-2.png"]], "type": "1", "uploads": [["5183f35eb56a4c7396b2abe0c5904c14.jpg", "b4703cc71e3f45cbb97e225e3bf73431.jpg"]], "weight": "" }
+  },
+  "thieu_tri": {
+    "gd_5": {"diameter": "", "emperor": "thieu_tri", "entity": "lvsx9trf", "identifiers": ["gd_5"], "images": [["07fb83c3007b4dbc8d485a13df0bd683-1.png", "07fb83c3007b4dbc8d485a13df0bd683-2.png"], ["a9c94812842a462caf7d83099b54d2cd-1.png", "a9c94812842a462caf7d83099b54d2cd-2.png"]], "type": "1", "uploads": [["38cd3c96c0e44ea98546600786c021a5.jpg", "1780f25843034c5fa6030d153bcdad85.jpg"]], "weight": "" }
+  },
+  "tu_duc": {
+    "gd_6": { "diameter": "", "emperor": "tu_duc", "entity": "bdoq3405", "identifiers": ["gd_6"], "images": [["cad77ac55e5c4ed288aada23416890c4-1.png", "cad77ac55e5c4ed288aada23416890c4-2.png"], ["3cf5e380f4f44fbfa5fdfeef3389994a-1.png", "3cf5e380f4f44fbfa5fdfeef3389994a-2.png"]], "type": "1", "uploads": [["dd7b7e8fc80a4c478cb6c4060826bb46.jpg", "f8db1db5f8a4479cb4f191cbfab7ad88.jpg"]], "weight": "" },
+    "gd_7": {"diameter": "", "emperor": "tu_duc", "entity": "fbxxygtb", "identifiers": ["gd_7"], "images": [["ea174854c5c344338caf4294a10acdf4-1.png", "ea174854c5c344338caf4294a10acdf4-2.png"], ["d3006145508845b3925ac8a14c3d6191-1.png", "d3006145508845b3925ac8a14c3d6191-2.png"]], "type": "1", "uploads": [["4306584739794d81beb3c496ade2bbd2.jpg", "17041ce3eab64a0e8b3b4021a55664c7.jpg"]], "weight": "" },
+    "bttphcm_50": { "diameter": "", "emperor": "tu_duc", "entity": "qqzjxn02", "identifiers": ["bttphcm_50"], "images": [["e4ef0a86c6214ecfbcd1ff603cb5fa96-1.png", "e4ef0a86c6214ecfbcd1ff603cb5fa96-2.png"]], "type": "1", "uploads": [["a8d66e82db9442e2bbde2d19863dc40f.JPG", "8bc29c37a8014da298c6e85757307f39.JPG"], ["2ec99cd92cb34234b405b83302aec87d.jpg", "97c489cf953b44f4b37fb1776417cc84.jpg"]], "weight": "" }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "minh_menh": {
+    "zgjd_2011_2374": {"diameter": "", "emperor": "minh_menh", "entity": "ztt8d4a9", "identifiers": ["zgjd_2011_2374"], "images": [["fcc2442564e94330abeb1f0840d62251-1.png", "fcc2442564e94330abeb1f0840d62251-2.png"], ["ed7095ff0e3b419e9051a79008eba5eb-1.png", "ed7095ff0e3b419e9051a79008eba5eb-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "tu_duc": {
+    "zgjd_2007_6323": {"diameter": "", "emperor": "tu_duc", "entity": "yk8lbix0", "identifiers": ["zgjd_2007_6323"], "images": [["de4da07f7dbe4facb5f42a0169292f5f-1.png", "de4da07f7dbe4facb5f42a0169292f5f-2.png"], ["eae1d6d6c9034569859203522886072f-1.png", "eae1d6d6c9034569859203522886072f-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  }
+}

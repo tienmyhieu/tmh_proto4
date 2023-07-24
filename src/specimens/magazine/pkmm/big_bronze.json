@@ -1,0 +1,23 @@
+{
+  "minh_menh": {
+    "kempgen_1": {"diameter": "51.00", "emperor": "minh_menh", "entity": "ma3ovvku", "identifiers": ["kempgen_1"], "images": [[".", "5d4628574c60409e81fc9a309a6280df-2.png"]], "type": "1", "uploads": [], "weight": "25.87" },
+    "kempgen_2": {"diameter": "51.00", "emperor": "minh_menh", "entity": "jweecx45", "identifiers": ["kempgen_2"], "images": [[".", "bd57d205f5ab4cf58a1e8c7cfc24e665-2.png"]], "type": "1", "uploads": [], "weight": "24.87" },
+    "kempgen_3": {"diameter": "51.00", "emperor": "minh_menh", "entity": "5kff7lc7", "identifiers": ["kempgen_3"], "images": [[".", "19fb466c72bd441294b62f89bac6aad9-2.png"]], "type": "1", "uploads": [], "weight": "29.42" },
+    "kempgen_4": {"diameter": "51.00", "emperor": "minh_menh", "entity": "awqj15hi", "identifiers": ["kempgen_4"], "images": [[".", "4dfc424e2b0d4428b1e1673f48cdf14c-2.png"]], "type": "1", "uploads": [], "weight": "28.93" },
+    "kempgen_5": {"diameter": "51.00", "emperor": "minh_menh", "entity": "cqh1yl31", "identifiers": ["kempgen_5"], "images": [[".", "a083f433ace3405793c42c2dd1987b17-2.png"]], "type": "1", "uploads": [], "weight": "25.62" },
+    "kempgen_6": {"diameter": "51.00", "emperor": "minh_menh", "entity": "gqvyu9mj", "identifiers": ["kempgen_6"], "images": [[".", "d05541d6474b43c8b8634944f0180027-2.png"]], "type": "1", "uploads": [], "weight": "30.41" },
+    "kempgen_7": {"diameter": "", "emperor": "minh_menh", "entity": "uiwkiiak", "identifiers": ["kempgen_7"], "images": [[".", "55d53c92caa745f2911a5b2263e3dab6-2.png"]], "type": "1", "uploads": [], "weight": "" },
+    "kempgen_8": {"diameter": "49.00", "emperor": "minh_menh", "entity": "duia89jq", "identifiers": ["kempgen_8"], "images": [[".", "29f6728edec5422eb55f5c4b5bfda0db-2.png"]], "type": "1", "uploads": [], "weight": "21.44" },
+    "kempgen_9": {"diameter": "51.00", "emperor": "minh_menh", "entity": "pdhl4eak", "identifiers": ["kempgen_9"], "images": [[".", "56945816fb134d1885b83953ca4424c1-2.png"]], "type": "1", "uploads": [], "weight": "28.36" },
+    "kempgen_10": {"diameter": "", "emperor": "minh_menh", "entity": "krdme39k", "identifiers": ["kempgen_10"], "images": [[".", "2e8fb5f8300747228c3447a4776790bb-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thieu_tri": {
+    "kempgen_11": {"diameter": "52.00", "emperor": "thieu_tri", "entity": "mz2812g7", "identifiers": ["kempgen_11"], "images": [["a89a4889ec184d21bc807f506a9abeb5-1.png", "a89a4889ec184d21bc807f506a9abeb5-2.png"]], "type": "1", "uploads": [], "weight": "34.41" }
+  },
+  "tu_duc": {
+    "kempgen_12": { "diameter": "50.00", "emperor": "tu_duc", "entity": "4el5b20a", "identifiers": ["kempgen_12"], "images": [[".", "8cff9c15dfb54fbcbd34b142d263538d-2.png"]], "type": "1", "uploads": [], "weight": "31.68" },
+    "kempgen_13": {"diameter": "51.00", "emperor": "tu_duc", "entity": "np20vbg8", "identifiers": ["kempgen_13"], "images": [["42b1bd9e6b404d968ce3e16bdd31b485-1.png", "42b1bd9e6b404d968ce3e16bdd31b485-2.png"]], "type": "1", "uploads": [], "weight": "33.19" },
+    "kempgen_14": {"diameter": "51.00", "emperor": "tu_duc", "entity": "dpoavszd", "identifiers": ["kempgen_14"], "images": [["ba231970b4944336a07f01921594eae1-1.png", "ba231970b4944336a07f01921594eae1-2.png"]], "type": "1", "uploads": [], "weight": "29.66" },
+    "kempgen_15": {"diameter": "50.00", "emperor": "tu_duc", "entity": "a7c3iiga", "identifiers": ["kempgen_15"], "images": [["edac1bb75ee04d88b07e7641b02f1d49-1.png", "edac1bb75ee04d88b07e7641b02f1d49-2.png"]], "type": "1", "uploads": [], "weight": "34.41" }
+  }
+}

@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "qx1rf520", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BNF_1788", "active": "1", "descendant": "bnf_1788", "entity": "ntrt43rr", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Lacroix_473", "active": "1", "descendant": "lacroix_473", "entity": "2axjmwdq", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BTTPHCM_52", "active": "1", "descendant": "bttphcm_52", "entity": "bq3m5q9z", "template": "", "type": "specimen", "relative": "1" }
+]

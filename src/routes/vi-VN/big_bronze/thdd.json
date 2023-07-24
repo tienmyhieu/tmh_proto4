@@ -1,0 +1,5 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "10q3x2s7", "template": "", "type": "coin", "relative": "1" },
+  { "route": "Tiền_đồng_lớn/Thiệu_Trị_thông_bảo/Thiên_hạ_đại_đồng/Barker_183", "active": "1", "descendant": "barker_183", "entity": "dpvyn2mw", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Thiên_hạ_đại_đồng/BTLSQG_9", "active": "1", "descendant": "btlsqg_9", "entity": "338ieuk8", "template": "", "relative": "0" }
+]

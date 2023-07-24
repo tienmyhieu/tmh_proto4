@@ -1,0 +1,9 @@
+{
+  "metadata": { "multiple": "0" },
+  "minh_menh": {
+    "okura_151": {"diameter": "", "emperor": "minh_menh", "entity": "93ema8ji", "identifiers": ["okura_151"], "images": [["3f8235d0b20a44f3b18b5001cc7948a7-1.png", "3f8235d0b20a44f3b18b5001cc7948a7-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thieu_tri": {
+    "okura_154": {"diameter": "", "emperor": "thieu_tri", "entity": "b83da3bo", "identifiers": ["okura_154"], "images": [["79447d8a397d463ebd5ba8b89c521d10-1.png", "79447d8a397d463ebd5ba8b89c521d10-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  }
+}

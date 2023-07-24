@@ -1,0 +1,7 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "s2wcxll8", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BNF_1620", "active": "1", "descendant": "bnf_1620", "entity": "gbsw3ips", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "HUAY_661052042", "active": "1", "descendant": "huay_661052042", "entity": "rr7vqk2e", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Woyl_23", "active": "1", "descendant": "woyl_23", "entity": "vy0dxiis", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "ERA_2010_3", "active": "1", "descendant": "era_2010_3", "entity": "j0vsc19s", "template": "", "type": "specimen", "relative": "1" }
+]

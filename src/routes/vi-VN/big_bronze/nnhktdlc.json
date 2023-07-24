@@ -1,0 +1,5 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "5u5megq0", "template": "", "type": "coin", "relative": "1" },
+  { "route": "Tiền_đồng_lớn/Thiệu_Trị_thông_bảo/Nhất_nhân_hữu_khánh_triệu_dân_lại_chi/BNF_1621", "active": "1", "descendant": "bnf_1621", "entity": "gk7izrjq", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Nhất_nhân_hữu_khánh_triệu_dân_lại_chi/BNF_1803", "active": "1", "descendant": "bnf_1803", "entity": "a4yg2mz9", "template": "", "relative": "0" }
+]

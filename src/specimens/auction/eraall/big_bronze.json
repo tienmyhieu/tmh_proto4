@@ -1,0 +1,13 @@
+{
+  "minh_menh": {
+    "era_2010_1": {"diameter": "50.00", "emperor": "minh_menh", "entity": "pglt2ai1", "identifiers": ["era_2010_1"], "images": [["7b8ab6ff797548a9ad463cb9e24160c9-1.png", "7b8ab6ff797548a9ad463cb9e24160c9-2.png"], ["9be3f3ce202e496596f55dc76128a876-1.png", "9be3f3ce202e496596f55dc76128a876-2.png"]], "type": "1", "uploads": [], "weight": "27.10" },
+    "era_2010_2": {"diameter": "", "emperor": "minh_menh", "entity": "j0vsc19s", "identifiers": ["era_2010_2"], "images": [["e158b11421f84a0da60065ca477a4a05-1.png", "e158b11421f84a0da60065ca477a4a05-2.png"], ["dd7379cdb0f34083a9bd4b419723a1ae-1.png", "dd7379cdb0f34083a9bd4b419723a1ae-2.png"]], "type": "1", "uploads": [], "weight": "" }
+  },
+  "thieu_tri": {
+    "era_2010_3": {"diameter": "52.00", "emperor": "thieu_tri", "entity": "j0vsc19s", "identifiers": ["era_2010_3"], "images": [[".", "9f5040f0f10b487ca03799717fdec65f-2.png"]], "type": "1", "uploads": [], "weight": "35.70" }
+  },
+  "tu_duc": {
+    "era_2010_4": {"diameter": "50.40", "emperor": "tu_duc", "entity": "a492cwxp", "identifiers": ["era_2010_4"], "images": [["21e47bb712f44eeeaddae6c0879d8c7c-1.png", "21e47bb712f44eeeaddae6c0879d8c7c-2.png"], ["4ba5151777a14f5aa3878aa1bb4c268c-1.png", "4ba5151777a14f5aa3878aa1bb4c268c-2.png"]], "type": "1", "uploads": [], "weight": "34.10" },
+    "bnf_2011_40": {"diameter": "52.00", "emperor": "tu_duc", "entity": "3aiwboxu", "identifiers": ["bnf_2011_40"], "images": [["e42c2dd2993344b8b4d475a0c4d5d97f-1.png", "e42c2dd2993344b8b4d475a0c4d5d97f-2.png"], ["443f03ccc0984b4fbb46abe792281ea1-1.png", "443f03ccc0984b4fbb46abe792281ea1-2.png"]], "type": "1", "uploads": [], "weight": "41.00" }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "minh_menh": {},
+  "thieu_tri": {
+    "gzll_1": {"diameter": "53.80", "emperor": "thieu_tri", "entity": "kp7ego7v", "identifiers": ["gzll_1"], "images": [["24568aac2e4341998ff1170a292b77af-1.png", "24568aac2e4341998ff1170a292b77af-2.png"], ["b9aa771b42904683a0fecdad12d2a995-1.png", "b9aa771b42904683a0fecdad12d2a995-2.png"]], "type": "1", "uploads": [["07d4a329a2f84b778fabdd5d0a959325.jpg", "e893dd1319534eb49a7a7d9daf08eb38.jpg"]], "weight": "" },
+    "gzll_2": {"diameter": "52.50", "emperor": "thieu_tri", "entity": "2mqkjihm", "identifiers": ["gzll_2"], "images": [["b8f34021e6f643a1bc59386d70f7755e-1.png", "b8f34021e6f643a1bc59386d70f7755e-2.png"], ["cfb81873d0ec497aab7fa95097926fd4-1.png", "cfb81873d0ec497aab7fa95097926fd4-2.png"]], "type": "1", "uploads": [["b3b57de455be45208159f9db33a4c257.jpg", "e8802a46210c46a3af60f5abd9128268.jpg"]], "weight": "" }
+  },
+  "tu_duc": {
+    "gzll_3": {"diameter": "50.00", "emperor": "tu_duc", "entity": "4doplwvk", "identifiers": ["gzll_3"], "images": [["c096f85f74d542aa84c17b71cd3ee02f-1.png", "c096f85f74d542aa84c17b71cd3ee02f-2.png"], ["3328b0db34b24d3bb20fd928640fa41f-1.png", "3328b0db34b24d3bb20fd928640fa41f-2.png"]], "type": "1", "uploads": [["dfdc44eccf8f4b0ea00e5aa7a2dbc9bb.jpg", "d8abbc70dad84750807f5c05287e5ce8.jpg"]], "weight": "" },
+    "gzll_4": { "diameter": "51.00", "emperor": "tu_duc", "entity": "4qk9q9wu", "identifiers": ["gzll_4"], "images": [["44336af38ac844df862f558030757d29-1.png", "44336af38ac844df862f558030757d29-2.png"], ["f70fc48dc0cd49229c4f0ce13877fa15-1.png", "f70fc48dc0cd49229c4f0ce13877fa15-2.png"]], "type": "1", "uploads": [["18472ad76c1143309d9463a8e338a758.jpg", "fd345f88e7264aea938a2bd83cc157d5.jpg"]], "weight": "" },
+    "gzll_5": {"diameter": "51.50", "emperor": "tu_duc", "entity": "y3e3m9l1", "identifiers": ["gzll_5"], "images": [["7dc4d282d0ae461e9a15e8b35c4d865f-1.png", "7dc4d282d0ae461e9a15e8b35c4d865f-2.png"], ["80510f10fecb4c5a88e0d0adb5af5c9c-1.png", "80510f10fecb4c5a88e0d0adb5af5c9c-2.png"]], "type": "1", "uploads": [["ed8adbfaceb44e88b843e6b5190d30f9.jpg", "03f625dd943a41d48697a244aeb4dda2.jpg"]], "weight": "" },
+    "gzll_6": {"diameter": "50.00", "emperor": "tu_duc", "entity": "esy8o1la", "identifiers": ["gzll_6"], "images": [["3eeea70e1d82408496e27140a4dc4d54-1.png", "3eeea70e1d82408496e27140a4dc4d54-2.png"], ["ee87bd6c6c4c4f9783d433817da02653-1.png", "ee87bd6c6c4c4f9783d433817da02653-2.png"]], "type": "1", "uploads": [["3fbd7f67b4a041d5bb639a9312fab197.jpg", "d020fa96bffc48d3bef18eee992b1c61.jpg"]], "weight": "" }
+  }
+}

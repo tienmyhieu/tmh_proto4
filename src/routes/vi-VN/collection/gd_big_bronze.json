@@ -1,0 +1,11 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "h93tso7d", "template": "", "type": "collection", "relative": "1" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Quốc_thái_dân_an_phong_điều_vũ_thuận/Gd_1", "active": "1", "descendant": "", "entity": "lcwnj9o5", "template": "", "type": "collection", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Quốc_phú_binh_cường_nội_an_ngoại_tĩnh/Gd_2", "active": "1", "descendant": "", "entity": "hnl2zo8w", "template": "", "type": "collection", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Liễm_phúc_tích_dân/Gd_3", "active": "1", "descendant": "", "entity": "df98w013", "template": "", "type": "collection", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Cương_kiện_trung_chính/Gd_4", "active": "1", "descendant": "", "entity": "2f27m533", "template": "", "type": "collection", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Thiệu_Trị_thông_bảo/Thiên_hạ_đại_đồng/Gd_5", "active": "1", "descendant": "", "entity": "lvsx9trf", "template": "", "type": "collection", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Như_sơn_như_xuyên_như_cương_như_phụ/Gd_6", "active": "1", "descendant": "", "entity": "bdoq3405", "template": "", "type": "collection", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Phạm_vi_thiên_địa_khúc_thành_vạn_vật/Gd_7", "active": "1", "descendant": "", "entity": "fbxxygtb", "template": "", "type": "collection", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Vạn_vật_tư_sinh/BTTPHCM_50", "active": "1", "descendant": "", "entity": "qqzjxn02", "template": "", "type": "collection", "relative": "0" }
+]
