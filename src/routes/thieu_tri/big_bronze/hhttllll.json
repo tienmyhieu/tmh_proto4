@@ -1,0 +1,5 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "ei58v7oa", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BNF_428", "active": "1", "descendant": "bnf_428", "entity": "hl4qh9cg", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Ikaru_26", "active": "1", "descendant": "ikaru_26", "entity": "kht3elyh", "template": "", "type": "specimen", "relative": "1" }
+]

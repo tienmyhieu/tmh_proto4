@@ -1,0 +1,5 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "07823703", "template": "", "type": "book", "relative": "1" },
+  { "route": "Tiền_đồng_lớn", "active": "1", "descendant": "big_bronze", "entity": "5bjeykys", "template": "", "type": "book", "relative": "1" },
+  { "route": "Tiền_đồng_lớn_không_có_hình_ảnh", "active": "1", "descendant": "big_bronze_no_images", "entity": "l14ztk4l", "template": "", "type": "book", "relative": "1" }
+]

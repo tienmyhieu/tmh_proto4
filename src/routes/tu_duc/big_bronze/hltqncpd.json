@@ -1,0 +1,10 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "hq3905xg", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BNF_1800", "active": "1", "descendant": "bnf_1800", "entity": "il5y165g", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Novak_278_G", "active": "1", "descendant": "novak_278_g", "entity": "bqtxjuty", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "MDA14_1173", "active": "1", "descendant": "mda14_1173", "entity": "odjvk9zj", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "HUAY_11_04_24_1056", "active": "1", "descendant": "huay_11_04_24_1056", "entity": "3n2f05yc", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "HUAY_22_0308_25", "active": "1", "descendant": "huay_22_0308_25", "entity": "mv3vriyw", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "HOSA_S11060924", "active": "1", "descendant": "hosa_S11060924", "entity": "d9e1w2vh", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "JNQ_32", "active": "1", "descendant": "jnq_32", "entity": "f3kheqox", "template": "", "type": "specimen", "relative": "1" }
+]

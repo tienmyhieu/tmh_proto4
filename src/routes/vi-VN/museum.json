@@ -1,0 +1,10 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "vhkv5pkw", "template": "", "type": "list", "relative": "1" },
+  { "route": "Bảo_Tàng_Thành_phố_Hồ_Chí_Minh", "active": "1", "descendant": "bttphcm", "entity": "11tosskn", "template": "", "type": "museum", "relative": "1" },
+  { "route": "Bảo_Tàng_Lịch_Sử_Quốc_Gia", "active": "1", "descendant": "btlsqg", "entity": "w9obh8x4", "template": "", "type": "museum", "relative": "1" },
+  { "route": "The_British_Museum", "active": "1", "descendant": "brmu", "entity": "udv97al0", "template": "", "type": "museum", "relative": "1" },
+  { "route": "Missions_étrangères_de_Paris", "active": "1", "descendant": "mep", "entity": "4l7917pz", "template": "", "type": "museum", "relative": "1" },
+  { "route": "Bibliothèque_Nationale_de_France", "active": "1", "descendant": "bnf", "entity": "kn998dl8", "template": "", "type": "museum", "relative": "1" },
+  { "route": "Monnaie_de_Paris", "active": "1", "descendant": "mdp", "entity": "z93dlrlg", "template": "", "type": "museum", "relative": "1" },
+  { "route": "Dobrée_v_Nantes", "active": "1", "descendant": "mddn", "entity": "t3hau3fo", "template": "", "type": "museum", "relative": "1" }
+]

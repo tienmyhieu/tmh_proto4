@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "avvd2dn0", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "HUAY_661052039", "active": "1", "descendant": "huay_661052039", "entity": "pf8d5s9j", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Ikaru_39", "active": "1", "descendant": "ikaru_39", "entity": "qrzam0uu", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BRMU_33", "active": "1", "descendant": "brmu_33", "entity": "ri5qybl4", "template": "", "type": "specimen", "relative": "1" }
+]

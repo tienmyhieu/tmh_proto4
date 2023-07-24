@@ -1,0 +1,11 @@
+{
+  "diameter": "50.90",
+  "emperor": "minh_menh",
+  "entity": "dp4ewvch",
+  "identifiers": ["BTTPHCM 16", "STTMM 16"],
+  "image_groups": {
+    "8wh31w8c": { "images": ["2bae0c3e1cdb4a9e87ab3f23284f6537-1.png", "2bae0c3e1cdb4a9e87ab3f23284f6537-2.png"] },
+    "ugat3ipo": { "images": ["4bc63f7736304142b37a5aea31b2fc5a-1.png", "4bc63f7736304142b37a5aea31b2fc5a-2.png"] }
+  },
+  "weight": "24.90"
+}

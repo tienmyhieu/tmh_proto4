@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "s82eo1gj", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Mitsuru_203", "active": "1", "descendant": "mitsuru_203", "entity": "v7zadi8u", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "SINA_2016_12_03", "active": "1", "descendant": "sina_2016_12_03", "entity": "cwo8q9mx", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "AW_17_1014_6", "active": "1", "descendant": "aw_17_1014_6", "entity": "xso3suiw", "template": "", "type": "specimen", "relative": "1" }
+]

@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "unmnc7c9", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BNF_1790", "active": "1", "descendant": "bnf_1790", "entity": "cm9pq13t", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Lacroix_469", "active": "1", "descendant": "lacroix_469", "entity": "hpb8cgjh", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Sallet_12_2", "active": "1", "descendant": "sallet_12_2", "entity": "1q1o2nwu", "template": "", "type": "specimen", "relative": "1" }
+]

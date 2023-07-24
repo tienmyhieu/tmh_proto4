@@ -1,0 +1,5 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "vj5h0nj3", "template": "", "type": "auction", "relative": "1" },
+  { "route": "Tiền_đồng_lớn", "active": "1", "descendant": "big_bronze", "entity": "a83atqyv", "template": "", "type": "auction", "relative": "1" },
+  { "route": "Tiền_kẽm_lớn", "active": "1", "descendant": "big_zinc", "entity": "uqsozkbo", "template": "", "type": "auction", "relative": "1" }
+]

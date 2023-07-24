@@ -1,0 +1,5 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "fdwi9swm", "template": "", "type": "coin", "relative": "1" },
+  { "route": "Tiền_đồng_lớn/Thiệu_Trị_thông_bảo/Dụ_quốc_lợi_dân/HUAY_661052011", "active": "1", "descendant": "huay_661052011", "entity": "735qm7z5", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Dụ_quốc_lợi_dân/HUAY_19_0327_312", "active": "1", "descendant": "huay_19_0327_312", "entity": "mquqhnvh", "template": "", "relative": "0" }
+]

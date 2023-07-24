@@ -1,0 +1,5 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "icif2pne", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Mitsuru_90", "active": "1", "descendant": "mitsuru_90", "entity": "0sv31ikp", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "SSSC_573146", "active": "1", "descendant": "sssc_573146", "entity": "j8tw9pb1", "template": "", "type": "specimen", "relative": "1" }
+]

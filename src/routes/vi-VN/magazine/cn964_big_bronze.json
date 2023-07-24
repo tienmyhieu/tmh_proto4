@@ -1,0 +1,10 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "d2d1tprd", "template": "", "type": "magazine", "relative": "1" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Quốc_phú_binh_cường_nội_an_ngoại_tĩnh/CN_96_4_1", "active": "1", "descendant": "", "entity": "ublislte", "template": "", "type": "magazine", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Lục_phủ_khổng_tu_tam_sự_doãn_trị/CN_96_4_2", "active": "1", "descendant": "", "entity": "ipu4a02m", "template": "", "type": "magazine", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Vạn_thọ_du_tạc_vạn_phúc_du_đồng/CN_96_4_3", "active": "1", "descendant": "", "entity": "2pbpsx5r", "template": "", "type": "magazine", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Thiệu_Trị_thông_bảo/Tự_thiên_hựu_chi_cát_vô_bất_lợi/CN_96_4_4", "active": "1", "descendant": "", "entity": "zmr02e1b", "template": "", "type": "magazine", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Thứ_chính_duy_hòa/CN_96_4_5", "active": "1", "descendant": "", "entity": "g89x459f", "template": "", "type": "magazine", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Như_khuê_như_chương_lệnh_văn_lệnh_vọng/CN_96_4_6", "active": "1", "descendant": "", "entity": "e9fjc941", "template": "", "type": "magazine", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Quốc_thái_dân_an_phong_điều_vũ_thuận/CN_96_4_7", "active": "1", "descendant": "", "entity": "uly8h5lz", "template": "", "type": "magazine", "relative": "0" }
+]

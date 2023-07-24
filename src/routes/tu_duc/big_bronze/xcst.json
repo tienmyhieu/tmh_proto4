@@ -1,0 +1,7 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "bdolvrj1", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Lacroix_463", "active": "1", "descendant": "lacroix_463", "entity": "hw4bwtb7", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Okura_107_1", "active": "1", "descendant": "okura_107_1", "entity": "fbz97oty", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BTTPHCM_56", "active": "1", "descendant": "bttphcm_56", "entity": "vkgdhdd8", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "BTLSQG_11", "active": "1", "descendant": "btlsqg_11", "entity": "9jie7834", "template": "", "type": "specimen", "relative": "1" }
+]

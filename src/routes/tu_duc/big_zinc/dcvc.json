@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "bq7080jx", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "Mitsuru_291", "active": "1", "descendant": "mitsuru_291", "entity": "u315sn1e", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "XGRX_2017_0056", "active": "1", "descendant": "xgrx_2017_0056", "entity": "9dhm05fr", "template": "", "type": "specimen", "relative": "1" },
+  { "route": "YAJP_b158043899", "active": "1", "descendant": "yajp_b158043899", "entity": "nj7dh9m7", "template": "", "type": "specimen", "relative": "1" }
+]

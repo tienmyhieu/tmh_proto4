@@ -1,0 +1,19 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "umd0xr1h", "template": "umd0xr1h", "type": "home", "relative": "1" },
+  { "route": "Đấu_giá", "active": "1", "descendant": "auction", "entity": "ni52ryxb", "template": "", "type": "list", "relative": "1" },
+  { "route": "Sách", "active": "1", "descendant": "book", "entity": "k13x5l9y", "template": "", "type": "list", "relative": "1" },
+  { "route": "Bộ_sưu_tập", "active": "1", "descendant": "collection", "entity": "eed1i4rt", "template": "", "type": "list", "relative": "1" },
+  { "route": "Tiền_đồng_lớn", "active": "1", "descendant": "big_bronze", "entity": "dr3grppa", "template": "", "type": "metal", "relative": "1" },
+  { "route": "Tiền_đồng_nhỏ", "active": "1", "descendant": "small_bronze", "entity": "7ntt14qf", "template": "", "type": "metal", "relative": "1" },
+  { "route": "Tiền_vàng_lớn", "active": "0", "descendant": "big_gold", "entity": "wmnspgi4", "template": "", "type": "metal", "relative": "1" },
+  { "route": "Tiền_bạc_lớn", "active": "0", "descendant": "big_silver", "entity": "jtmub7zq", "template": "", "type": "metal", "relative": "1" },
+  { "route": "Tiền_kẽm_lớn", "active": "1", "descendant": "big_zinc", "entity": "qt7h889n", "template": "" , "type": "metal", "relative": "1" },
+  { "route": "Tải_xuống", "active": "0", "descendant": "download", "entity": "58wbv1xd", "template": "", "type": "list", "relative": "1" },
+  { "route": "Tạp_chí", "active": "1", "descendant": "magazine", "entity": "03bzpv5q", "template": "", "type": "list", "relative": "1" },
+  { "route": "Bảo_tàng", "active": "1", "descendant": "museum", "entity": "vhkv5pkw", "template": "", "type": "list", "relative": "1" },
+  { "route": "Minh_Mệnh_thông_bảo", "active": "1", "descendant": "minh_menh", "entity": "5nqoi7g9", "template": "", "type": "emperor", "relative": "1" },
+  { "route": "Thiệu_Trị_thông_bảo", "active": "1", "descendant": "thieu_tri", "entity": "m8l7dmpj", "template": "j", "type": "emperor", "relative": "1" },
+  { "route": "Tự_Đức_thông_bảo", "active": "1", "descendant": "tu_duc", "entity": "trgb85ek", "template": "", "type": "emperor", "relative": "1" },
+  { "route": "Bài_viết_trên_web", "active": "1", "descendant": "web_article", "entity": "0iyansdp", "template": "" , "type": "list", "relative": "1" },
+  { "route": "Trang_mạng", "active": "0", "descendant": "web_site", "entity": "zhfqnvgk", "template": "", "type": "list", "relative": "1" }
+]

@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "b1kqaiuq", "template": "", "type": "coin", "relative": "1" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Đế_đức_quảng_vận/BTTPHCM_23", "active": "1", "descendant": "bttphcm_23", "entity": "8qbd2ldb", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Thiệu_Trị_thông_bảo/Đế_đức_quảng_vận/BTTPHCM_31", "active": "1", "descendant": "bttphcm_31", "entity": "548mj7hi", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Đế_đức_quảng_vận/BRU10_199", "active": "1", "descendant": "bru10_199", "entity": "po3uwpp7", "template": "", "relative": "0" }
+]

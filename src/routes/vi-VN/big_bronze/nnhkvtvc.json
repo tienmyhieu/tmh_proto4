@@ -1,0 +1,6 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "yfwgwn2v", "template": "", "type": "coin", "relative": "1" },
+  { "route": "Tiền_đồng_lớn/Minh_Mệnh_thông_bảo/Nhất_nhân_hữu_khánh_vạn_thọ_vô_cương/BTTPHCM_19", "active": "1", "descendant": "bttphcm_19", "entity": "umulihqb", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Thiệu_Trị_thông_bảo/Nhất_nhân_hữu_khánh_vạn_thọ_vô_cương/CHCOIN_1856788", "active": "1", "descendant": "chcoin_1856788", "entity": "qaxv5yv0", "template": "", "relative": "0" },
+  { "route": "Tiền_đồng_lớn/Tự_Đức_thông_bảo/Nhất_nhân_hữu_khánh_vạn_thọ_vô_cương/BNF_491", "active": "1", "descendant": "bnf_491", "entity": "09imjid5", "template": "", "relative": "0" }
+]

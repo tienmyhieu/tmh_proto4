@@ -1,0 +1,5 @@
+[
+  { "route": "", "active": "1", "descendant": "", "entity": "qk93r9wl", "template": "", "type": "collection", "relative": "1" },
+  { "route": "Tiền_đồng_lớn", "active": "1", "descendant": "big_bronze", "entity": "h93tso7d", "template": "", "type": "collection", "relative": "1" },
+  { "route": "Tiền_đồng_nhỏ", "active": "1", "descendant": "small_bronze", "entity": "1lh04bsu", "template": "", "type": "collection", "relative": "1" }
+]
